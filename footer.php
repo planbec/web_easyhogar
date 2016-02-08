@@ -1,11 +1,11 @@
-	<!-- Footer -->
+﻿	<!-- Footer -->
 	<footer id="main-footer">
 		
 		<div class="footer-call-to-action">
 			
 			<div class="contact">
 				<h3>Cont&aacute;ctenos:</h3>
-				Correo: info@burvillsa.com &nbsp; | &nbsp; mmartinez@burvillsa.com &nbsp; | &nbsp; eplaza@burvillsa.com &nbsp; | &nbsp; dimburvillsa@gmail.com<br>
+				Correo: info@easyhogar.com &nbsp; | &nbsp; mmartinez@burvillsa.com &nbsp; | &nbsp; eplaza@burvillsa.com &nbsp; | &nbsp; dimburvillsa@gmail.com<br>
 				Celular: 0994067634 - 0959673655 &nbsp; | &nbsp; Tel&eacute;fono: (04) 2993083
 
 				<!-- Footer-menu -->
@@ -26,7 +26,7 @@
 			
 			<!-- Copyright -->
 			<div class="copyright">
-				&copy; Copyright 2015 BURVILL’S. Todos los derechos reservados.
+				&copy; Copyright 2016 EasyHogar. Todos los derechos reservados.
 			</div>
 
 			<div class="planb">
