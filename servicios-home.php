@@ -1,8 +1,8 @@
-		<section id="servicios-home" class="container">
+﻿		<section id="servicios-home" class="container">
 			
 			<div class="cols cf">
 				
-				<article class="servicio-resumen col3">
+				<article class="servicio-resumen col4">
 					<div class="icono">
 						<figure class="icono-servicio">
 							<i class="fa fa-users"></i>
@@ -14,9 +14,24 @@
 						<p>Somos una empresa dedicada a la venta de contenedores marítimos nuevos y seminuevos...</p>
 					</div><!-- /.text -->
 				</article><!-- /.servicio-resumen -->
+
 				
 				
-				<article class="servicio-resumen col3">
+				<article class="servicio-resumen col4">
+					<div class="icono">
+						<figure class="icono-servicio">
+							<i class="fa fa-bar-chart"></i>
+						</figure><!-- /.icono-servicio -->
+					</div><!-- /.icono -->
+					
+					<div class="text">
+						<h2>Misi&oacute;n y visi&oacute;n</h2>
+						<p>Brindar a nuestros clientes productos de la mejor calidad y un servicio de excelencia mediante una log&iacute;stica eficiente y eficaz.</p>
+					</div><!-- /.text -->
+				</article><!-- /.servicio-resumen -->
+
+
+				<article class="servicio-resumen col4">
 					<div class="icono">
 						<figure class="icono-servicio">
 							<i class="fa fa-bar-chart"></i>
@@ -31,7 +46,8 @@
 
 
 
-				<article class="servicio-resumen col3">
+
+				<article class="servicio-resumen col4">
 					<div class="icono">
 						<figure class="icono-servicio">
 							<i class="fa fa-recycle"></i>

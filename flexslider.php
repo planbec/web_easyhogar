@@ -1,8 +1,8 @@
-		<div class="flexslider">
+﻿		<div class="flexslider">
 
 			<div class="intro">
-				<p><strong>Contenedores marítimos</strong> nuevos y seminuevos y <strong>m&oacute;dulos de oficina.</strong></p>
-				<a href="#" class="btn">Contáctenos</a>
+				<p>Servicio doméstico de <strong>confianza</strong> para la <strong>limpieza y cuidado</strong> de tu hogar
+</p>
 			</div>
 
 
@@ -25,8 +25,8 @@
 		</div>
 
 		<div class="intro_inf">
-			<p><strong>Contenedores marítimos</strong> nuevos y seminuevos y <strong>m&oacute;dulos de oficina.</strong></p>
-			<a href="contactos.php" class="btn">Contáctenos</a>
+			<p>Servicio doméstico de <strong>confianza</strong> para la <strong>limpieza y cuidado</strong> de tu hogar
+</p>
 		</div>
 
 		<!-- /.flexslider -->
