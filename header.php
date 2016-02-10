@@ -7,7 +7,7 @@
 			<div class="logo-header">
 				<h1 class="logo">
 					<a href="index.php">
-						<img src="img/logo-burvills.png" alt="Burvill's - Contenedores marítimos"  title="Burvill's - Contenedores marítimos" width="240"></h1>
+						<img src="img/logo_easyhogar.png" alt="Easy Hogar - Servicio domestico de confianza"  title="Burvill's - Contenedores marítimos" width="240"></h1>
 					</a>
 				<h2 class="slogan">Contenedores mar&iacute;timos</h2>
 
