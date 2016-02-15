@@ -7,19 +7,20 @@
 			<div class="logo-header">
 				<h1 class="logo">
 					<a href="index.php">
-						<img src="img/logo_easyhogar.png" alt="Easy Hogar - Servicio domestico de confianza"  title="Burvill's - Contenedores marítimos" width="240"></h1>
+						<img src="img/logo_easyhogar.png" alt="Easy Hogar - Servicio doméstico de confianza"  title="Easy Hogar - Servicio doméstico de confianza" width="240"></h1>
 					</a>
-				<h2 class="slogan">Contenedores mar&iacute;timos</h2>
+				<h2 class="slogan">Servicio doméstico de confianza</h2>
 
 			</div>
 
 	<div class="redes">
-		<ul>
+		<!-- ul>
 		<li><a href="#">F</a></li>
 		<li><a href="#">T</a></li>
-		</ul>
+		</ul -->
 
-		<p class="wp">0996179227  -  0996171061 </p>
+		<p class="wp">Cont&aacute;ctanos al <i class="fa fa-whatsapp"></i>
+ <strong>099 617 9227  -  099 617 1061</strong> </p>
 
 	</div>
 
@@ -31,10 +32,12 @@
 			<nav id="main-menu" role="navigation" class="closed">
 				<ul>
 					<li><a href="index.php" <?php if($uri == 'index') echo 'class="active"'?> >Inicio</a></li>
-					<li><a href="sobrenosotros.php" <?php if($uri == 'quienessomos') echo 'class="active"'?> >Sobre nosotros</a></li>
-					<li><a href="servicios.php" <?php if($uri == 'productos') echo 'class="active"'?> >Servicios</a></li>
-					<li><a href="testimonios.php" <?php if($uri == 'productos') echo 'class="active"'?> >Testimonios</a></li>
-					<li><a href="contactos.php" <?php if($uri == 'contactos') echo 'class="active"'?> >Contactos</a></li>
+					<li><a href="quehacemos.php" <?php if($uri == 'quehacemos') echo 'class="active"'?> >Qu&eacute; hacemos</a></li>
+					<li><a href="comofunciona.php" <?php if($uri == 'comofunciona') echo 'class="active"'?> >C&oacute;mo funciona</a></li>
+					<li><a href="servicios.php" <?php if($uri == 'servicios') echo 'class="active"'?> >Servicios</a></li>
+					<li><a href="testimonios.php" <?php if($uri == 'productos') echo 'class="active"'?> >Nuestras asistentes</a></li>
+					<li><a href="testimonios.php" <?php if($uri == 'testimonios') echo 'class="active"'?> >Testimonios</a></li>
+					<li><a href="contactos.php" <?php if($uri == 'contactos') echo 'class="active"'?> >Cont&aacute;ctanos</a></li>
 				</ul>
 			</nav>
 		</div>
