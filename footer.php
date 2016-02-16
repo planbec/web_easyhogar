@@ -4,19 +4,25 @@
 		<div class="footer-call-to-action">
 			
 			<div class="contact">
-				<h3>Cont&aacute;ctenos:</h3>
-				Correo: info@easyhogar.com &nbsp; | &nbsp; mmartinez@burvillsa.com &nbsp; | &nbsp; eplaza@burvillsa.com &nbsp; | &nbsp; dimburvillsa@gmail.com<br>
-				Celular: 0994067634 - 0959673655 &nbsp; | &nbsp; Tel&eacute;fono: (04) 2993083
 
-				<!-- Footer-menu -->
-				<!--nav id="footer-menu">
-					<ul>
-						<li><a href="index.php" <?php if($uri == 'index') echo 'class="active"'?> >Inicio</a></li>
-						<li><a href="quienessomos.php" <?php if($uri == 'quienessomos') echo 'class="active"'?> >Quienes somos</a></li>
-						<li><a href="productos.php" <?php if($uri == 'productos') echo 'class="active"'?> >Productos</a></li>
-						<li><a href="contactos.php" <?php if($uri == 'contactos') echo 'class="active"'?> >Contactos</a></li>
-					</ul>
-				</nav -->
+
+				<div class="footer-menu">
+				<ul>
+					<li><a href="comofunciona.php" <?php if($uri == 'comofunciona') echo 'class="active"'?> >C&oacute;mo funciona</a></li>
+					<li><a href="servicios.php" <?php if($uri == 'servicios') echo 'class="active"'?> >Limpieza de hogar</a></li>
+					<li><a href="servicios.php" <?php if($uri == 'servicios') echo 'class="active"'?> >Limpieza de oficina</a></li>
+					<li><a href="terminos.php" <?php if($uri == 'terminos') echo 'class="active"'?> >T&eacute;rminos y condiciones</a></li>
+					<li><a href="politicas.php" <?php if($uri == 'politicas') echo 'class="active"'?> >Pol&iacute;ticas de calidad y confianza</a></li>
+				</ul>
+				</div>
+
+
+				<div class="dir">
+				Para obtener informaci&oacute;n general sobre EASYHOGAR, por favor contáctese con nosotros:<br>
+				Telfs.: 0996179227 - 0996171061<br>
+				E-mail: <a href="mailto:info@easyhogar.com">info@easyhogar.com</a><br>
+				Guayaquil - Ecuador 
+				</div>
 
 			</div>
 			

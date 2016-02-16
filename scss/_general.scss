@@ -10,7 +10,7 @@
   background: 0; }
 
 body {
-  font: 16px/22px Pontano,Helvetica,Arial,sans-serif;
+  font: 16px/22px "Pontano sans",Helvetica,Arial,sans-serif;
   color: $gris; 
 }
 
@@ -62,7 +62,7 @@ p:last-child {
   margin-bottom: 0; }
 
 a {
-  color: #50c5ab;
+  color: $azul;
   text-decoration: none;
   -webkit-transition: all .15s linear;
   -moz-transition: all .15s linear;

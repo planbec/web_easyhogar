@@ -27,17 +27,30 @@
 .alignright{float:right;margin:0 0 .5em 1em;max-width:50%}
 .aligncenter{display:block;margin:1.5em auto;}
 
+/*
+.detalle-servicio{ 
+	display:table; 
+	margin-bottom:3em;
+	.text { 
+		display:table-cell; 
+		vertical-align:top; 
+	}
 
-.detalle-servicio{ display:table; margin-bottom:3em;
-	.text{ display:table-cell; vertical-align:top; }
-	.icono { width:12rem; display:table-cell; vertical-align:top;
+	.icono { 
+		width:12rem; 
+		display:table-cell; 
+		vertical-align:top; 
 		.icono-servicio { margin: 1rem 40px; }
+		ul { margin: 0; 
+		padding: 0;
+			li { 
+				list-style: square; 
+				margin-bottom:1rem; 
+			}
+		}
 	}
-	ul { margin: 0; padding: 0;
-		li { list-style: square; margin-bottom:1rem; }
-	}
- }
-
+}
+*/
 
 .container{ width:100%;max-width:75rem;margin-left:auto;margin-right:auto}
 
@@ -127,27 +140,59 @@
 	}
 }
 
-#main-footer{border-top:solid .125rem #282f40}
+#main-footer { 
+	border-top:solid 10px #727c88; 
+	.footer-call-to-action{
+		text-align:center; 
+		background:#3c4a5b; 
+		color:$blanco; 
+		padding:1rem 0.5rem; 
+		overflow: hidden;
 
-.footer-call-to-action{
-	text-align:center; background:#282f40; color:#fff; padding:2rem 0.5rem; overflow: hidden;
-
-	.contact { text-align:left; margin:auto; max-width:75rem; overflow: hidden; line-height: 1.5rem;
-		h3 { color: $color-titulos; font:1.2rem/1.1rem Dosis, Arial; text-transform: uppercase; margin-bottom: 0.5rem;
+		.contact { text-align:left; margin:auto; max-width:75rem; overflow: hidden; line-height: 1.5rem;
+			a { color: $blanco; 
+				&:hover,&:active  {
+					color: $verde;
+				}
+			}
+			.footer-menu {
+				background: url(../img/ico_footer.png) center left no-repeat;
+				overflow: hidden;
+				width: 40%;
+				float: left;
+				margin-right: 1rem;
+				border-right: 1px solid #727c88;
+				ul {
+					margin: 0 0 0 35%;
+					li { 
+						font-size: 0.8rem;
+						text-transform:uppercase; 
+						margin-bottom: 0.3rem;
+						list-style: none;
+					}
+				}
+			}
+			.dir {
+				float: left;
+				margin-left: 1rem;
+				width: 55%;
+			}
 		}
 	}
 }
 
-#bottom-footer {display:table; }
-#bottom-footer .copyright,#bottom-footer #footer-menu,#bottom-footer .planb{display:table-cell;width:50%;padding:1.5em 0}
-#bottom-footer .planb { color:#999; text-align: right;}
+#bottom-footer { display:table; }
+#bottom-footer .copyright,#bottom-footer .planb{display:table-cell;width:50%;padding:1.5em 0}
+#bottom-footer .planb { 
+	color:$gris; 
+	text-align: right; 
+	vertical-align: top;
+	a { display: block;
+		padding-left: 0.4rem;
+		float: right;
+	}
+}
 
-#footer-menu{ text-align:right; float: right; margin:-1rem 0 1rem; }
-#footer-menu ul,#footer-menu li{margin:0;padding:0;list-style:none;background:0}
-#footer-menu ul li{display:inline-block}
-#footer-menu ul li::before{/*content:"/";*/padding:0 .7em}
-#footer-menu ul li a{color:#7e89a3; padding: 0.5em 1.5em; text-decoration: none;}
-#footer-menu ul li a:hover,#footer-menu ul li a.active { background:#1d252d; border-radius: 10em; color:#e99935; }
 
 
 .flexslider {
