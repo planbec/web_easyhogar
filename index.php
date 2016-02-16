@@ -18,7 +18,7 @@
 
 	<!-- Livemotive -->
 	<section>
-		<?php include("livemotive.php"); ?>
+		<?php include("widget-home.php"); ?>
 	</section>
 	
 	

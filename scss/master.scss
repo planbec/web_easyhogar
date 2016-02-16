@@ -10,16 +10,19 @@
 .cf:after{clear:both}
 .cf{*zoom:1}
 .cols{text-align:left}
-.cols .col2{float:left;width:48%;margin-right:4%;margin-bottom:3em}
+.cols .col2{float:left;width:48%;margin-right:4%;margin-bottom:2em}
 .cols .col2:nth-child(2n){margin-right:0}
 .cols .col2:nth-child(2n+3){clear:left}
-.cols .col3{float:left;width:30%;margin-right:5%;margin-bottom:3em}
+
+.cols .col3{float:left;width:31%;margin-right:3%;margin-bottom:2em}
 .cols .col3:nth-child(3n){margin-right:0}
 .cols .col3:nth-child(3n+4){clear:left}
-.cols .col3x2{float:right;width:65%;clear:right;margin-bottom:3em}
-.cols .col4{float:left;width:21.25%;margin-right:5%;margin-bottom:3em}
+.cols .col3x2{float:right;width:65%;clear:right;margin-bottom:2em}
+
+.cols .col4{float:left;width:23%; margin:0 1% 2em}
 .cols .col4:nth-child(4n){margin-right:0}
 .cols .col4:nth-child(4n+5){clear:left}
+
 .cols:before,.cols:after{content:" ";display:table}
 .cols:after{clear:both}
 .cols{*zoom:1}
@@ -75,7 +78,7 @@
 	background: $blanco url(../img/bk_logo.png) no-repeat bottom center; 
 	display:table-cell; 
 	float: left;
-	margin-bottom: 1em;
+	margin-bottom: 0.5em;
 	.logo {margin:0;display:block; font-size:2.5em;line-height:1.2em; padding:0.5rem ;
 		a { display: block;
 			img { width: 100%; }
@@ -325,20 +328,67 @@ input[type="submit"],input[type="button"]{background:#e99935;border:0;color:#fff
 
 .servicio-resumen { 
 	text-align:center; 
-	border-right: 1px dashed #ddd;
-    padding-right: 2.3rem;
+    padding-right: 1rem;
 	.icono { display:block; 
 		.icono-servicio{ margin:0 auto ;
 		}
 	}
-	h2 { color:$color-titulos; font:normal 1.4rem 'Dosis',sans-serif; margin:1rem 0; 
+	h2 { color:$verde; font:normal 1.4rem 'Dosis',sans-serif; margin:1rem 0; 
 	}
 	p {margin-top: 0.5rem;}
 	&:last-child {border-right:none;}
 }
 
 
-#servicios-home{padding:4em 0}
+#servicios-home {
+	padding:0;
+
+	.text-center {
+		padding: 2rem;
+		p {
+			background: $grisfondo;
+			border-radius: 1rem;
+			color: $azul;
+			font: 1.8rem 'Dosis',sans-serif;
+			padding: 1rem;
+			text-transform: uppercase;
+			text-align: center;
+			strong {
+				font-size: 2.05rem;
+			}
+		}
+	}
+
+	h2 {
+		text-transform: uppercase;
+	}
+	a {
+		color: $gris;
+		&:hover {
+			color: $azul;
+			text-decoration: none;
+		}
+		img {
+			border:1px solid #ccc;
+			&:hover {
+			border-color: #FFF;
+			opacity: 0.7;
+			box-shadow: 0px 0px 6px 3px $azul
+			}
+		}
+	}
+}
+
+
+#widget-home {
+	h2 {
+		background: $azul;
+		color: $blanco;
+		font: 1.5rem Dosis, Arial;
+		padding: 0.2rem 1rem;
+	}
+}
+
 
 figure.icono-servicio { 	
 	color: $color-iconos;

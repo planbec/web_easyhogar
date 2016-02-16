@@ -141,7 +141,7 @@ hr.center {
   float: left;
   width: 48%;
   margin-right: 4%;
-  margin-bottom: 3em; }
+  margin-bottom: 2em; }
 
 .cols .col2:nth-child(2n) {
   margin-right: 0; }
@@ -151,9 +151,9 @@ hr.center {
 
 .cols .col3 {
   float: left;
-  width: 30%;
-  margin-right: 5%;
-  margin-bottom: 3em; }
+  width: 31%;
+  margin-right: 3%;
+  margin-bottom: 2em; }
 
 .cols .col3:nth-child(3n) {
   margin-right: 0; }
@@ -165,13 +165,12 @@ hr.center {
   float: right;
   width: 65%;
   clear: right;
-  margin-bottom: 3em; }
+  margin-bottom: 2em; }
 
 .cols .col4 {
   float: left;
-  width: 21.25%;
-  margin-right: 5%;
-  margin-bottom: 3em; }
+  width: 23%;
+  margin: 0 1% 2em; }
 
 .cols .col4:nth-child(4n) {
   margin-right: 0; }
@@ -259,7 +258,7 @@ hr.center {
   background: #FFF url(../img/bk_logo.png) no-repeat bottom center;
   display: table-cell;
   float: left;
-  margin-bottom: 1em; }
+  margin-bottom: 0.5em; }
   .logo-header .logo {
     margin: 0;
     display: block;
@@ -629,14 +628,13 @@ input[type="submit"], input[type="button"] {
 
 .servicio-resumen {
   text-align: center;
-  border-right: 1px dashed #ddd;
-  padding-right: 2.3rem; }
+  padding-right: 1rem; }
   .servicio-resumen .icono {
     display: block; }
     .servicio-resumen .icono .icono-servicio {
       margin: 0 auto; }
   .servicio-resumen h2 {
-    color: #ea5932;
+    color: #5cad45;
     font: normal 1.4rem 'Dosis',sans-serif;
     margin: 1rem 0; }
   .servicio-resumen p {
@@ -645,7 +643,38 @@ input[type="submit"], input[type="button"] {
     border-right: none; }
 
 #servicios-home {
-  padding: 4em 0; }
+  padding: 0; }
+  #servicios-home .text-center {
+    padding: 2rem; }
+    #servicios-home .text-center p {
+      background: #f2f2f2;
+      border-radius: 1rem;
+      color: #009ee2;
+      font: 1.8rem 'Dosis',sans-serif;
+      padding: 1rem;
+      text-transform: uppercase;
+      text-align: center; }
+      #servicios-home .text-center p strong {
+        font-size: 2.05rem; }
+  #servicios-home h2 {
+    text-transform: uppercase; }
+  #servicios-home a {
+    color: #666; }
+    #servicios-home a:hover {
+      color: #009ee2;
+      text-decoration: none; }
+    #servicios-home a img {
+      border: 1px solid #ccc; }
+      #servicios-home a img:hover {
+        border-color: #FFF;
+        opacity: 0.7;
+        box-shadow: 0px 0px 6px 3px #009ee2; }
+
+#widget-home h2 {
+  background: #009ee2;
+  color: #FFF;
+  font: 1.5rem Dosis, Arial;
+  padding: 0.2rem 1rem; }
 
 figure.icono-servicio {
   color: #7e89a3;
