@@ -1,4 +1,4 @@
-﻿		<div class="flexslider">
+		<div class="flexslider">
 
 			<div class="intro">
 				<p>&iquest;Cansada de limpiar<br>tu hogar todos los d&iacute;as? <strong>&iexcl;Nosotros lo hacemos por tí!</strong></p>

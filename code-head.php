@@ -1,10 +1,11 @@
-﻿<?php
+<?php
 $uri =  $_SERVER['REQUEST_URI'];
 $parts = explode('/',$uri);
 $uri = end($parts);
 $uri = str_replace('.php','',$uri);
 $uri = (empty($uri)) ? 'index' : $uri;
 ?>
+
 
 <!DOCTYPE html>
 <html lang="es">

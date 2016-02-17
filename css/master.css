@@ -262,18 +262,16 @@ hr.center {
 .logo-header {
   background: #FFF url(../img/bk_logo.png) no-repeat bottom center;
   display: table-cell;
-  float: left;
-  /*margin-bottom: 0.5em;*/ }
+  float: left; }
   .logo-header .logo {
     margin: 0;
     display: block;
-    font-size: 2.5em;
-    line-height: 1.2em;
-    padding: 0.5rem; }
+    padding: 0.5rem 0.7rem; }
     .logo-header .logo a {
       display: block; }
       .logo-header .logo a img {
-        width: 100%; }
+        width: 100%;
+        padding: 0.7rem; }
   .logo-header .slogan {
     display: none;
     font-size: .7em;
@@ -286,11 +284,9 @@ hr.center {
 .small .logo-header {
   background: none;
   margin-top: 2.3em; }
-  .small .logo-header .logo {
-    padding: 0.3rem 0 0 0; }
-    .small .logo-header .logo img {
-      padding: 0;
-      width: 120px; }
+  .small .logo-header .logo img {
+    padding: 0;
+    width: 120px; }
 
 /* Redes */
 .redes {
@@ -591,7 +587,7 @@ input[type="submit"], input[type="button"] {
 
 .page-header {
   background: #d1dce6;
-  padding: 3rem 0 1.5rem;
+  padding: 6rem 0 1.5rem;
   text-align: center; }
   .page-header h1 {
     color: #ea5932;

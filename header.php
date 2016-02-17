@@ -1,5 +1,5 @@
-﻿	<!-- Main-header -->
-	<header id="main-header" class="large">
+<!-- Main-header -->
+ <header id="main-header" class="large">
 	
 
 		<div class="header-cont">
@@ -7,10 +7,10 @@
 			<div class="logo-header">
 				<h1 class="logo">
 					<a href="index.php">
-						<img src="img/logo_easyhogar.png" alt="Easy Hogar - Servicio doméstico de confianza"  title="Easy Hogar - Servicio doméstico de confianza" width="240"></h1>
+						<img src="img/logo_easyhogar.png" alt="Easy Hogar - Servicio doméstico de confianza"  title="Easy Hogar - Servicio doméstico de confianza" width="240">
 					</a>
+				 </h1>
 				<h2 class="slogan">Servicio doméstico de confianza</h2>
-
 			</div>
 
 	<div class="redes">

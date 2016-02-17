@@ -1,4 +1,4 @@
-﻿		<section id="servicios-home" class="container">
+		<section id="servicios-home" class="container">
 
 			<div class="text-center">
 				<p>No te preocupes de <strong>trámites legales</strong>, <br><strong>prestaciones sociales</strong> ni pago de <strong>horas extras</strong></p>

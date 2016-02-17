@@ -1,4 +1,4 @@
-﻿		<section id="widget-home" class="container">
+		<section id="widget-home" class="container">
 			
 			<div class="cols cf">
 				
