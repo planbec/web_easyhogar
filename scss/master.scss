@@ -60,15 +60,19 @@
 #main-header { 
 	background:#fcfcfc url(../img/bg_top.png) repeat-x top center ; 
 	border-bottom: 1px solid rgba(216,216,216,.8);
-	box-shadow:-9px 5px 9px rgba(2,2,2,.3);
+	box-shadow:-9px -6px 5px 9px rgba(2,2,2,.3);
 	display:table; 
 	position:fixed; 
 	top:0; 
 	width: 100%; 
 	z-index: 100; 
+	&.large { height: 180px; }
+	&.small { height: 100px; margin-top: -30px; }
 	.header-cont { box-sizing:border-box; margin:auto; max-width: 75rem; padding: 0 1rem; 
 	}
 }
+
+
 
 
 #content-area {clear:both; margin-top:5rem; }
@@ -78,7 +82,7 @@
 	background: $blanco url(../img/bk_logo.png) no-repeat bottom center; 
 	display:table-cell; 
 	float: left;
-	margin-bottom: 0.5em;
+	/*margin-bottom: 0.5em;*/
 	.logo {margin:0;display:block; font-size:2.5em;line-height:1.2em; padding:0.5rem ;
 		a { display: block;
 			img { width: 100%; }
@@ -88,6 +92,18 @@
 	}
 	&:hover{text-decoration:none;
 	}
+}
+
+.small .logo-header {
+    background: none;
+    margin-top: 2.3em;
+    .logo {
+    	padding: 0.3rem 0 0 0;
+    	img { 
+    		padding: 0;
+    		width: 120px;
+    	}
+    }
 }
 
 
@@ -106,6 +122,20 @@
     }
     i { font-size: 2rem; margin: 0 1rem;}
 }
+
+.small .redes {
+    margin-bottom: 0.7rem;
+    margin-top: 25px;
+}
+
+
+header, .logo-header, .redes, img {
+			transition: all .5s;
+			-moz-transition: all .5s; /* Firefox 4 */
+			-webkit-transition: all .5s; /* Safari and Chrome */
+			-o-transition: all .5s; /* Opera */
+		}
+
 
 
 /* Menu */

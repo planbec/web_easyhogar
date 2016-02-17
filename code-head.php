@@ -17,18 +17,29 @@ $uri = (empty($uri)) ? 'index' : $uri;
 	<link rel="stylesheet" href="css/master.css" >
 	<link rel="stylesheet" href="css/normalize.css" >
 
-	<!-- link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'
-	link href='https://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css' -->
-
 	<link href='https://fonts.googleapis.com/css?family=Dosis:400,500,600' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Pontano+Sans' rel='stylesheet' type='text/css'>
 	
 	<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
 	<link rel="shortcut icon" href="favicon.ico">
 
+	<script src="js/jquery-latest.js"></script>
+
+
 	<!--[if (gte IE 6)&(lte IE 8)]>
 	  <script type="text/javascript" src="js/selectivizr-min.js"></script>
 	  <script type="text/javascript" src="js/html5shiv.js"></script>
 	<![endif]-->
+
+
+<script type="text/javascript">
+$(document).on("scroll",function(){
+    if($(document).scrollTop()>100){
+        $("header").removeClass("large").addClass("small");
+    } else{
+        $("header").removeClass("small").addClass("large");
+    }
+});
+</script>
 
 </head>

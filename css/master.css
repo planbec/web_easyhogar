@@ -235,12 +235,17 @@ hr.center {
 #main-header {
   background: #fcfcfc url(../img/bg_top.png) repeat-x top center;
   border-bottom: 1px solid rgba(216, 216, 216, 0.8);
-  box-shadow: -9px 5px 9px rgba(2, 2, 2, 0.3);
+  box-shadow: -9px -6px 5px 9px rgba(2, 2, 2, 0.3);
   display: table;
   position: fixed;
   top: 0;
   width: 100%;
   z-index: 100; }
+  #main-header.large {
+    height: 180px; }
+  #main-header.small {
+    height: 100px;
+    margin-top: -30px; }
   #main-header .header-cont {
     box-sizing: border-box;
     margin: auto;
@@ -258,7 +263,7 @@ hr.center {
   background: #FFF url(../img/bk_logo.png) no-repeat bottom center;
   display: table-cell;
   float: left;
-  margin-bottom: 0.5em; }
+  /*margin-bottom: 0.5em;*/ }
   .logo-header .logo {
     margin: 0;
     display: block;
@@ -278,6 +283,15 @@ hr.center {
   .logo-header:hover {
     text-decoration: none; }
 
+.small .logo-header {
+  background: none;
+  margin-top: 2.3em; }
+  .small .logo-header .logo {
+    padding: 0.3rem 0 0 0; }
+    .small .logo-header .logo img {
+      padding: 0;
+      width: 120px; }
+
 /* Redes */
 .redes {
   background: #5cad45;
@@ -295,6 +309,19 @@ hr.center {
   .redes i {
     font-size: 2rem;
     margin: 0 1rem; }
+
+.small .redes {
+  margin-bottom: 0.7rem;
+  margin-top: 25px; }
+
+header, .logo-header, .redes, img {
+  transition: all .5s;
+  -moz-transition: all .5s;
+  /* Firefox 4 */
+  -webkit-transition: all .5s;
+  /* Safari and Chrome */
+  -o-transition: all .5s;
+  /* Opera */ }
 
 /* Menu */
 #main-menu {

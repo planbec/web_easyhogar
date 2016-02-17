@@ -1,5 +1,5 @@
 ﻿	<!-- Main-header -->
-	<header id="main-header" class="">
+	<header id="main-header" class="large">
 	
 
 		<div class="header-cont">
