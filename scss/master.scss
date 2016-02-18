@@ -297,7 +297,7 @@ header, .logo-header, .redes, img {
 input,textarea{background:#fff;border:.0625rem solid #d9d9e2; margin:0.5rem 0 !important; padding:1em;-webkit-transition:all .3s linear;-moz-transition:all .3s linear;-o-transition:all .3s linear;-ms-transition:all .3s linear;transition:all .3s linear;max-width:100%;color:#7e89a3;display:block;width:100%;-webkit-border-radius:.3rem;-moz-border-radius:.3rem;-ms-border-radius:.3rem;-o-border-radius:.3rem;border-radius:.3rem;background:#f6f6f8;margin-bottom:1em}
 input:focus,textarea:focus{border-color:#50c5ab;outline:0;background:#fff}
 textarea{width:100%}
-input[type="submit"],input[type="button"]{background:#e99935;border:0;color:#fff;display:inline-block;width:auto;line-height:1.5em}
+input[type="submit"],input[type="button"]{border:0;color:#fff;display:inline-block;float:right;width:auto;line-height:1.5em}
 
 .btn{
 	padding:.3em 1.5em; 
@@ -324,12 +324,12 @@ input[type="submit"],input[type="button"]{background:#e99935;border:0;color:#fff
 .alerta{background:#fffaf9; color:$color-titulos; font-size: 1.2rem; padding:1em 2em; -webkit-border-radius:.5em; -moz-border-radius:.5em; -ms-border-radius:.5em; -o-border-radius:.5em; border-radius:.5em; border:solid .0625rem #ff6347; margin-bottom:1em; text-align: center;}
 
 .page-header{
-	background:#d1dce6;
-	padding:6rem 0 1.5rem;
+	background:$grisfondo;
+	padding:8rem 0 1.5rem;
 	text-align:center;
 	
 	h1 {
-		color: $color-titulos;
+		color: $azul;
 		font: 2rem/2.1rem Dosis, Arial;
 		margin:0 0 .5em 0
 		}
@@ -358,7 +358,7 @@ input[type="submit"],input[type="button"]{background:#e99935;border:0;color:#fff
 
 .portafolio-resumen { padding-bottom: 2.5rem; text-align: center;}
 
-.container.page-content,.container.list-content{margin-top:4em;margin-bottom:4em}
+.container.page-content,.container.list-content{margin-top:4em; margin-bottom:8em}
 #hero-container {background:#f6f6f8;border-bottom:solid .0625rem #d9d9e2;border-top:solid .0625rem #d9d9e2;padding:5em 0 8em 0;position:relative}
 #hero {padding-right:40%; width: 95%;}
 #hero .dispositivos{background:url(../img/home-dispositivos.png) left center no-repeat;position:absolute;right:0;top:0;width:55%;height:100%}
@@ -518,7 +518,7 @@ article.portafolio-resumen img { /*margin-bottom:0.5rem;*/ width:60%}
   margin-bottom: 2rem;
   	p { padding-bottom: 1rem important;
   		margin-bottom: 0.5rem important;
-  	strong {color:#ea5932;
+  	strong {
   		text-transform: uppercase;
   	}
   }

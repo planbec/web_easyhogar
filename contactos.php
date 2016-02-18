@@ -54,10 +54,6 @@
 		</article><!-- /#single-page -->
 	</main><!-- /#content-area -->
 	
-	<!-- Livemotive -->
-	<section>
-		<?php include("livemotive.php"); ?>
-	</section>
 	
 	
 <?php include("footer.php"); ?>
