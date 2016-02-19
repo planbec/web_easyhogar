@@ -36,9 +36,16 @@
 	margin-bottom:3em;
 	.text { 
 		display:table-cell; 
-		vertical-align:top; 
+		vertical-align:middle; 
 	}
 
+	.foto { margin: 1rem; 
+		img { border-radius: 50%;
+			border: 1px solid #ddd;
+			max-width: none;
+			padding: 2px;
+		}
+	}
 	.icono { 
 		width:12rem; 
 		display:table-cell; 
@@ -353,8 +360,8 @@ input[type="submit"],input[type="button"]{border:0;color:#fff;display:inline-blo
     	color: $verde;
     	display: block;
     	font: 1.6rem/2rem Dosis,Arial;
-    	margin: 1rem 0 1rem -0.8rem;
-    	padding: 0.3rem 1rem;
+    	margin: 1rem 0 0.6rem -0.8rem;
+    	padding: 0.2rem 1rem;
 	}
 
 	h3 { 
@@ -581,6 +588,7 @@ article.portafolio-resumen img { /*margin-bottom:0.5rem;*/ width:60%}
 		.icono-servicio{margin:0 auto 1.5rem auto }
 		.icono {display:block; text-align:center; width:100% }
 		.text {display:block; width:100% }
+
 	}
 	.servicio-resumen { border:none; padding: 0 0.5rem; }
 
@@ -710,7 +718,7 @@ article.portafolio-resumen img { /*margin-bottom:0.5rem;*/ width:60%}
 	#main-header.large, #main-header.small { height: 140px; margin-top:0; }
 	.small .logo-header, .large .logo-header { width:120px; background: none; position: absolute; top:45px; left: 0.5rem; margin: 0;}
 	.small .logo-header .logo, .large .logo-header .logo {padding: 0;
-		img {width: auto;}
+		img {width: 100%;}
 	}
 	.small .redes, .large .redes { width:100%; margin: 0; position:absolute; border-radius: 0; text-align: right;
 		p { font-size: 1rem;}
