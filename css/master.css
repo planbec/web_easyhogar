@@ -569,7 +569,7 @@ input[type="submit"], input[type="button"] {
     box-shadow: none;
     color: #7e89a3; }
     .btn.btn-light:hover {
-      background: #ea5932;
+      background: #009ee2;
       color: #FFF; }
 
 .alerta {
@@ -745,7 +745,7 @@ figure.icono-servicio {
   .portafolio-resumen h2 {
     margin: 1em 0 .5em 0; }
     .portafolio-resumen h2 a {
-      color: #ea5932;
+      color: #5cad45;
       text-decoration: none;
       display: block;
       font: 1.6rem Dosis,Arial;
@@ -756,28 +756,41 @@ figure.icono-servicio {
         border-radius: 8rem;
         color: #383636; }
   .portafolio-resumen p {
-    margin: 0 0 1em 0; }
+    margin: 0 0 1em 0;
+    font-size: 1.2rem;
+    line-height: 1.7rem; }
 
-.portafolio-detalle .page-header {
-  padding: 3em 0 18em 0;
-  margin-bottom: -15em; }
-.portafolio-detalle .imagen-destacada {
-  margin-bottom: 1.5em;
-  text-align: center; }
-.portafolio-detalle .container.page-content {
-  text-align: center;
-  margin-top: 0; }
-  .portafolio-detalle .container.page-content ul {
-    margin: 0;
-    padding: 0; }
-    .portafolio-detalle .container.page-content ul.prod-thumbs li {
-      display: inline-block;
-      padding: 0.5rem 1.3rem 2rem 0;
-      width: 31%; }
-      .portafolio-detalle .container.page-content ul.prod-thumbs li h3 {
-        font: 1.3rem Dosis, Arial;
-        color: #ea5932;
-        margin-bottom: 0.5rem; }
+.portafolio-detalle {
+  /*.page-header { padding:3em 0 18em 0; margin-bottom:-15em; }*/ }
+  .portafolio-detalle .imagen-destacada {
+    margin-bottom: 1.5em;
+    text-align: center; }
+  .portafolio-detalle .container.page-content {
+    text-align: center;
+    margin-top: 0; }
+    .portafolio-detalle .container.page-content h3 {
+      font: 1.3rem Dosis, Arial;
+      color: #ea5932;
+      margin-bottom: 0.5rem; }
+    .portafolio-detalle .container.page-content ul {
+      margin: 0;
+      padding: 0; }
+      .portafolio-detalle .container.page-content ul.prod-thumbs li {
+        display: inline-block;
+        padding: 0.5rem 1.3rem 2rem 0;
+        text-align: left;
+        vertical-align: top;
+        width: 48%; }
+        .portafolio-detalle .container.page-content ul.prod-thumbs li p {
+          margin-bottom: 0.5rem; }
+        .portafolio-detalle .container.page-content ul.prod-thumbs li ul {
+          margin: 0;
+          padding: 0; }
+          .portafolio-detalle .container.page-content ul.prod-thumbs li ul li {
+            display: list-item;
+            margin: 0;
+            padding: 0;
+            width: 100%; }
 
 article.portafolio-resumen img {
   /*margin-bottom:0.5rem;*/

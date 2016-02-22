@@ -7,51 +7,36 @@
 	
 		<article class="single-page">
 			
-			
 			<header class="page-header">
 				<div class="container">
-					
 					<h1><i class="fa fa-suitcase"></i> Servicios</h1>
-					
-					<!--p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut massa non ipsum<br />
-					fermentum rhoncus non vel neque. Phasellus varius feugiat purus vel sodales. </p-->
-				
 				</div>
 			</header><!-- /.page-header -->
 			
 			
-			
-			<div class="container page-content">
-			
-				<!-- section class="detalle-servicio">
-					<div class="foto">
-						<img src="img/limpieza01.jpg">
-					</div>
-					<div class="text">
-						
-						<h3>Proveemos de personal de confianza</h3>
-						
-						<p>para el servicio dom&eacute;stico por horas para la limpieza de hogar y oficinas.</a></p>
-					</div>
-				</section>< -->
+			<div class="container list-content">
+				<div class="portafolio-list cols">		
+					
+					<article class="portafolio-resumen col2">
+						<a href="limpieza_hogar.php"><img src="img/prod_20dc.png" alt="Limpieza de hogar" /></a>
+						<header>
+							<h2><a href="limpieza_hogar.php">Limpieza de hogar</a></h2>
+						</header>
+						<p>Disfrutas de tu casa limpia y tu tiempo libre.</p>
+						<a href="limpieza_hogar.php" class="btn btn-light">Leer m&aacute;s</a>
+					</article><!-- /.portafolio-resumen -->
+					
+					
+					<article class="portafolio-resumen col2">
+						<a href="limpieza_oficina.php"><img src="img/prod_40hc.png" alt="Limpieza de oficinas" /></a>
+						<header>
+							<h2><a href="limpieza_oficina.php">Limpieza de oficinas</a></h2>
+						</header>
+						<p>Tus empleados concentrados solo en tu negocio. <br>&iexcl;De la limpieza nos encargamos nosotros!</p>
+						<a href="limpieza_oficina.php" class="btn btn-light">Leer m&aacute;s</a>
+					</article><!-- /.portafolio-resumen -->				
 
-
-
-
-				<!-- section class="detalle-servicio">
-					<div class="foto">
-						<img src="img/limpieza01.jpg">
-					</div>
-					<div class="text">
-						
-						<h3>Proveemos de personal de confianza</h3>
-						
-						<p>para el servicio dom&eacute;stico por horas para la limpieza de hogar y oficinas.</a></p>
-					</div>
-				</section>< -->
-			
-				
-							
+				</div>
 			</div><!-- /.content -->
 			
 		</article><!-- /#single-page -->

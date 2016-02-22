@@ -23,32 +23,32 @@
 			
 			<div class="container page-content">
 			
-				<!-- section class="detalle-servicio">
+				<section class="detalle-servicio">
 					<div class="foto">
 						<img src="img/limpieza01.jpg">
 					</div>
 					<div class="text">
 						
-						<h3>Proveemos de personal de confianza</h3>
+						<h3><i class="fa fa-quote-left"></i> Proveemos de personal de confianza</h3>
 						
 						<p>para el servicio dom&eacute;stico por horas para la limpieza de hogar y oficinas.</a></p>
 					</div>
-				</section>< -->
+				</section>
 
 
 
 
-				<!-- section class="detalle-servicio">
+				<section class="detalle-servicio">
 					<div class="foto">
 						<img src="img/limpieza01.jpg">
 					</div>
 					<div class="text">
 						
-						<h3>Proveemos de personal de confianza</h3>
+						<h3><i class="fa fa-quote-left"></i> Proveemos de personal de confianza</h3>
 						
 						<p>para el servicio dom&eacute;stico por horas para la limpieza de hogar y oficinas.</a></p>
 					</div>
-				</section>< -->
+				</section>
 			
 				
 							
