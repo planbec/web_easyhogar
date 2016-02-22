@@ -592,10 +592,11 @@ input[type="submit"], input[type="button"] {
   text-align: center; }
   .page-header h1 {
     color: #009ee2;
-    font: 2rem/2.1rem Dosis, Arial;
+    font: 2.3rem/2.1rem Dosis, Arial;
     margin: 0 0 .5em 0; }
     .page-header h1 i {
-      margin-right: 1rem; }
+      margin-right: 1rem;
+      font-size: 2.5rem; }
   .page-header p {
     color: #333;
     font-size: 1.2em;
