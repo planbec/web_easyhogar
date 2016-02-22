@@ -10,7 +10,7 @@
 						<img src="img/logo_easyhogar.png" alt="Easy Hogar - Servicio doméstico de confianza"  title="Easy Hogar - Servicio doméstico de confianza" width="240">
 					</a>
 				 </h1>
-				<h2 class="slogan">Servicio doméstico de confianza</h2>
+				<h2 class="slogan">Servicio dom&eacute;stico de confianza</h2>
 			</div>
 
 	<div class="redes">

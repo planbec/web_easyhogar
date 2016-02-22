@@ -21,7 +21,8 @@ $uri = (empty($uri)) ? 'index' : $uri;
 	<link href='https://fonts.googleapis.com/css?family=Dosis:400,500,600' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Pontano+Sans' rel='stylesheet' type='text/css'>
 	
-	<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+	<!--link rel="stylesheet" href="font-awesome/css/font-awesome.css"-->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 	<link rel="shortcut icon" href="favicon.ico">
 
 	<script src="js/jquery-latest.js"></script>

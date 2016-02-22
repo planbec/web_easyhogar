@@ -39,7 +39,7 @@ ingresa mail receptor
 ****************************************************************/
 
 if( !$error ) {
-	mail("dimburvillsa@gmail.com", $subject, $mensaje, $from);
+	mail("info@easyhogar.com", $subject, $mensaje, $from);
 }
 ?>
 				
@@ -63,9 +63,9 @@ if( !$error ) {
 
 					Atentamente,<br />
 
-				BURVILL’S / Contenedores mar&iacute;timos<br /><br />
+				EASYHOGAR - Servicio dom&eacute;stico de confianza<br /><br />
 
-				Este mensaje fue enviado al siguiente correo electrónico: info@burvillsa.com </p>
+				Este mensaje fue enviado al siguiente correo electrónico: info@easyhogar.com </p>
 				
 				</div>
 			</header><!-- /.page-header -->
@@ -108,12 +108,6 @@ if( !$error ) {
 			
 		</article><!-- /#single-page -->
 	</main><!-- /#content-area -->
-	
-	
-	<!-- Livemotive -->
-	<section>
-		<?php include("livemotive.php"); ?>
-	</section>
 	
 	
 <?php include("footer.php"); ?>
