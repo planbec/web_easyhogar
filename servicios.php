@@ -18,7 +18,7 @@
 				<div class="portafolio-list cols">		
 					
 					<article class="portafolio-resumen col2">
-						<a href="limpieza_hogar.php"><img src="img/prod_20dc.png" alt="Limpieza de hogar" /></a>
+						<a href="limpieza_hogar.php"><img src="img/limpieza_hogar.jpg" alt="Limpieza de hogar" /></a>
 						<header>
 							<h2><a href="limpieza_hogar.php">Limpieza de hogar</a></h2>
 						</header>
@@ -28,7 +28,7 @@
 					
 					
 					<article class="portafolio-resumen col2">
-						<a href="limpieza_oficina.php"><img src="img/prod_40hc.png" alt="Limpieza de oficinas" /></a>
+						<a href="limpieza_oficina.php"><img src="img/limpieza_oficina.jpg" alt="Limpieza de oficinas" /></a>
 						<header>
 							<h2><a href="limpieza_oficina.php">Limpieza de oficinas</a></h2>
 						</header>

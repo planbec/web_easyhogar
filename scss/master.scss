@@ -33,7 +33,7 @@
 
 .detalle-servicio{ 
 	display:table; 
-	margin-bottom:3em;
+	margin-bottom:2em;
 	.text { 
 		display:table-cell; 
 		vertical-align:middle; 
@@ -46,6 +46,11 @@
 			padding: 2px;
 		}
 	}
+
+	ul { margin: 0; padding: 0;
+		li { list-style: none; list-style-position: inside; padding-bottom:1rem; }
+	}
+
 	.icono { 
 		width:12rem; 
 		display:table-cell; 
@@ -376,8 +381,8 @@ input[type="submit"],input[type="button"]{border:0;color:#fff;display:inline-blo
     	text-transform: uppercase;
 	}
 
-	p { font-size:1.2rem; 
-		line-height: 2rem;
+	p { font-size:1.12rem; 
+		line-height: 1.8rem;
 		margin-bottom: 2rem;
 	}
 }
@@ -516,11 +521,13 @@ figure.icono-servicio {
 
 .portafolio-detalle {
 	/*.page-header { padding:3em 0 18em 0; margin-bottom:-15em; }*/
-	.imagen-destacada { margin-bottom:1.5em; text-align: center;}
+	.imagen-destacada { margin-bottom:1.5em; text-align: center; }
 	.container.page-content{ text-align:center; margin-top:0;
-		h3 { font: 1.3rem Dosis, Arial; color:$color-titulos; margin-bottom: 0.5rem; }
+		h3 { background: #f6f6f6; border-radius: 8rem; font: 1.45rem Dosis, Arial; color:$verde; margin-bottom: 0.5rem; }
+		h4 { color: $azul; font-size:1.5rem; text-transform: uppercase; }
 		ul { margin: 0; padding: 0;
-		&.prod-thumbs li { display:inline-block; padding: 0.5rem 1.3rem 2rem 0; text-align: left; vertical-align: top; width:48%;
+		&.prod-thumbs li { display:inline-block; padding: 0.5rem 2.5rem 3rem 0; text-align: left; vertical-align: top; width:48%;
+			img { border-radius:1rem;}
 			p { margin-bottom: 0.5rem;}
 			ul { margin: 0; padding: 0; 
 				li  {display: list-item; margin: 0; padding: 0; width: 100%; }

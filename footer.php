@@ -9,10 +9,10 @@
 				<div class="footer-menu">
 				<ul>
 					<li><a href="comofunciona.php" <?php if($uri == 'comofunciona') echo 'class="active"'?> >C&oacute;mo funciona</a></li>
-					<li><a href="servicios.php" <?php if($uri == 'servicios') echo 'class="active"'?> >Limpieza de hogar</a></li>
-					<li><a href="servicios.php" <?php if($uri == 'servicios') echo 'class="active"'?> >Limpieza de oficina</a></li>
+					<li><a href="limpieza_hogar.php" <?php if($uri == 'servicios') echo 'class="active"'?> >Limpieza de hogar</a></li>
+					<li><a href="limpieza_oficina.php" <?php if($uri == 'servicios') echo 'class="active"'?> >Limpieza de oficina</a></li>
 					<li><a href="terminos.php" <?php if($uri == 'terminos') echo 'class="active"'?> >T&eacute;rminos y condiciones</a></li>
-					<li><a href="politicas.php" <?php if($uri == 'politicas') echo 'class="active"'?> >Pol&iacute;ticas de calidad y confianza</a></li>
+					<li><a href="trabaje.php" <?php if($uri == 'trabaje') echo 'class="active"'?> >Trabaje con nosotros</a></li>
 				</ul>
 				</div>
 

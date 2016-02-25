@@ -39,7 +39,7 @@ Beneficios de la limpieza recurrente</h3>
 					</p>
 				</li>		
 			</ul>
-			<center><a href="#" class="btn">Ver m&aacute;s</a></center>
+			<center><a href="consejos-limpieza.php" class="btn">Ver m&aacute;s</a></center>
 
 
 					</div><!-- /.text -->

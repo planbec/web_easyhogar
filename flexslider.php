@@ -24,9 +24,7 @@
 		</div>
 
 		<div class="intro_inf">
-			<p>Servicio doméstico de <strong>confianza</strong> 
-para la <strong>limpieza y cuidado</strong> de tu hogar
-</p>
+			<p>&iquest;Cansada de limpiar<br>tu hogar todos los d&iacute;as? <strong>&iexcl;Nosotros lo hacemos por tí!</strong></p>
 		</div>
 
 		<!-- /.flexslider -->

@@ -11,10 +11,8 @@
 			<header class="page-header">
 				<div class="container">
 					
-					<h1><i class="fa fa-commenting-o"></i> Testimonios</h1>
+					<h1><i class="fa fa-comments-o"></i> Testimonios</h1>
 					
-					<!--p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut massa non ipsum<br />
-					fermentum rhoncus non vel neque. Phasellus varius feugiat purus vel sodales. </p-->
 				
 				</div>
 			</header><!-- /.page-header -->

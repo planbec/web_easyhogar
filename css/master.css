@@ -204,7 +204,7 @@ hr.center {
 
 .detalle-servicio {
   display: table;
-  margin-bottom: 3em; }
+  margin-bottom: 2em; }
   .detalle-servicio .text {
     display: table-cell;
     vertical-align: middle; }
@@ -215,6 +215,13 @@ hr.center {
       border: 1px solid #ddd;
       max-width: none;
       padding: 2px; }
+  .detalle-servicio ul {
+    margin: 0;
+    padding: 0; }
+    .detalle-servicio ul li {
+      list-style: none;
+      list-style-position: inside;
+      padding-bottom: 1rem; }
   .detalle-servicio .icono {
     width: 12rem;
     display: table-cell;
@@ -622,8 +629,8 @@ input[type="submit"], input[type="button"] {
     padding: 0.3rem 1rem;
     text-transform: uppercase; }
   .container.page-content p {
-    font-size: 1.2rem;
-    line-height: 2rem;
+    font-size: 1.12rem;
+    line-height: 1.8rem;
     margin-bottom: 2rem; }
 
 .portafolio-resumen {
@@ -769,18 +776,26 @@ figure.icono-servicio {
     text-align: center;
     margin-top: 0; }
     .portafolio-detalle .container.page-content h3 {
-      font: 1.3rem Dosis, Arial;
-      color: #ea5932;
+      background: #f6f6f6;
+      border-radius: 8rem;
+      font: 1.45rem Dosis, Arial;
+      color: #5cad45;
       margin-bottom: 0.5rem; }
+    .portafolio-detalle .container.page-content h4 {
+      color: #009ee2;
+      font-size: 1.5rem;
+      text-transform: uppercase; }
     .portafolio-detalle .container.page-content ul {
       margin: 0;
       padding: 0; }
       .portafolio-detalle .container.page-content ul.prod-thumbs li {
         display: inline-block;
-        padding: 0.5rem 1.3rem 2rem 0;
+        padding: 0.5rem 2.5rem 3rem 0;
         text-align: left;
         vertical-align: top;
         width: 48%; }
+        .portafolio-detalle .container.page-content ul.prod-thumbs li img {
+          border-radius: 1rem; }
         .portafolio-detalle .container.page-content ul.prod-thumbs li p {
           margin-bottom: 0.5rem; }
         .portafolio-detalle .container.page-content ul.prod-thumbs li ul {

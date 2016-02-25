@@ -9,7 +9,7 @@
 				
 				<article class="servicio-resumen col4">
 					<div class="text">
-						<h2><a href="#">
+						<h2><a href="quehacemos.php">
 							<img src="img/thumb01.jpg">
 							Sobre nosotros</a></h2>
 					</div><!-- /.text -->
@@ -18,7 +18,7 @@
 				
 				<article class="servicio-resumen col4">
 					<div class="text">
-						<h2><a href="#">
+						<h2><a href="limpieza_hogar.php">
 							<img src="img/thumb02.jpg">
 							Limpieza de hogares</a></h2>
 					</div><!-- /.text -->
@@ -27,7 +27,7 @@
 
 				<article class="servicio-resumen col4">				
 					<div class="text">
-						<h2><a href="#">
+						<h2><a href="limpieza_oficina.php">
 							<img src="img/thumb03.jpg">
 							Limpieza de oficinas</a></h2>
 					</div><!-- /.text -->
@@ -36,7 +36,7 @@
 
 				<article class="servicio-resumen col4">
 					<div class="text">
-						<h2><a href="#">
+						<h2><a href="asistentes.php">
 							<img src="img/thumb04.jpg">
 							Nuestras asistentes</a></h2>
 					</div><!-- /.text -->

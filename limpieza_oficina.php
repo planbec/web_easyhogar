@@ -15,21 +15,17 @@
 			
 			
 			<div class="container page-content">
-				<h2>Limpieza de hogar</h2>
+				<h2>Limpieza de oficina</h2>
 				
-				<img src="img/limpieza_hogar.jpg" alt="Limpieza de hogar" class="imagen-destacada">
+				<img src="img/limpieza_oficina.jpg" alt="Limpieza de oficina" class="imagen-destacada">
 				
-				<p><strong>Con EasyHogar disfrutas de tu casa limpia y tu tiempo libre.</strong><br>
+				<p><strong>Con EasyHogar tienes a tus empleados concentrados solo en tu negocio. <br>¡De la limpieza nos encargamos nosotros!</strong><br>
 
-Este servicio contempla la limpieza de todas las superficies del hogar, tales como la sala, comedor, cocina, dormitorios y dem&aacute;s. Nuestras Asistentes de Hogar se encargar&aacute;n de la limpieza y organizaci&oacute;n, siempre en funci&oacute;n de las prioridades que le asignes y del tiempo de servicio contratado.</p>
+Este servicio contempla la limpieza de todas las superficies de tu oficina, para lo cual solo necesitas asignar las prioridades en función del tiempo del servicio contratado.</p>
 
-<p>Adicional a las tareas de servicio dom&eacute;stico que nuestras asistentes pueden realizar, tambi&eacute;n se considera el servicio de limpieza de prendas de vestir. El cliente proveer&aacute; los insumos, materiales y equipos a utilizarse.
+<p>Nuestro servicio contempla la limpieza de oficinas, escritorios de trabajo, sala de reuniones, pequeñas cafeterías, vaciado de tachos de basura, limpieza de salas de espera, limpieza de escaleras y portales, así como también barrer/aspirar y trapear pisos, limpieza de baños, entre otros.</p>
 
-El servicio tambi&eacute;n considera el planchado simple de camisas, trajes, faldas, pantalones, chalecos y vestidos, sin embargo no contempla el lavado, secado y planchado de prendas delicadas o que requieran de alg&uacute;n tratamiento especial.</p>
-
-<p>El servicio no contempla la preparaci&oacute;n compleja de alimentos bajo la funci&oacute;n de cocinera principal, pero si contempla el ayudar en la preparaci&oacute;n con actividades espec&iacute;ficas como lavar vegetales, condimentar carnes, lavar platos, entre otros.
-
-El servicio si contempla actividades b&aacute;sicas de preparaci&oacute;n de alimentos como desayunos b&aacute;sicos, s&aacute;ndwiches, preparar y servir bebidas frías o calientes.</p>
+<p>El servicio contempla la asistencia en reuniones para preparar y servir bebidas como agua, cafés y te.</p>
 
 <h3>&iquest;Deseas olvidarte para siempre de la limpieza?</h3>
 <p>Te recomendamos nuestro servicio de Limpieza Peri&oacute;dica y descubrir&aacute;s grandes descuentos y beneficios.</p> 
