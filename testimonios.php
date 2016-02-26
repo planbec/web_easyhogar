@@ -20,33 +20,22 @@
 			
 			
 			<div class="container page-content">
-			
+
+			<!-- Testimonio -->
 				<section class="detalle-servicio">
 					<div class="foto">
-						<img src="img/limpieza01.jpg">
+						<img src="img/testimonio1.jpg">
 					</div>
 					<div class="text">
 						
-						<h3><i class="fa fa-quote-left"></i> Proveemos de personal de confianza</h3>
+						<h3><i class="fa fa-quote-left"></i> Puntualidad y buen trabajo</h3>
 						
-						<p>para el servicio dom&eacute;stico por horas para la limpieza de hogar y oficinas.</p>
+						<p>Muy recomendado, la persona encargada cumplió con los tiempos establecidos además del buen trato y la confianza.<br><br>
+							<i>- Econ. Nelson Larrea- </i></p>
 					</div>
 				</section>
 
 
-
-
-				<section class="detalle-servicio">
-					<div class="foto">
-						<img src="img/limpieza01.jpg">
-					</div>
-					<div class="text">
-						
-						<h3><i class="fa fa-quote-left"></i> Proveemos de personal de confianza</h3>
-						
-						<p>para el servicio dom&eacute;stico por horas para la limpieza de hogar y oficinas.</p>
-					</div>
-				</section>
 			
 				
 							

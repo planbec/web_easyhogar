@@ -25,7 +25,7 @@
 			
 				<section class="detalle-servicio">
 					<div class="foto">
-						<img src="img/limpieza01.jpg">
+						<img src="img/asist_lina_pacheco.jpg" Title="Lina Pacheco">
 					</div>
 					<div class="text">
 						
