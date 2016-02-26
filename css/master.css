@@ -205,6 +205,10 @@ hr.center {
 .detalle-servicio {
   display: table;
   margin-bottom: 2em; }
+  .detalle-servicio h5 {
+    color: #009ee2;
+    text-transform: uppercase;
+    font-style: normal; }
   .detalle-servicio .text {
     display: table-cell;
     vertical-align: middle; }
@@ -215,9 +219,18 @@ hr.center {
       border: 1px solid #ddd;
       max-width: none;
       padding: 2px; }
+  .detalle-servicio blockquote {
+    background: #f2f2f2;
+    border-radius: 1rem;
+    color: #666;
+    margin: 1.5rem 0;
+    padding: 1rem; }
   .detalle-servicio ul {
     margin: 0;
     padding: 0; }
+    .detalle-servicio ul.asist li {
+      list-style-type: square;
+      padding-bottom: 0.3rem; }
     .detalle-servicio ul li {
       list-style: none;
       list-style-position: inside;

@@ -34,6 +34,7 @@
 .detalle-servicio{ 
 	display:table; 
 	margin-bottom:2em;
+	h5 { color: $azul; text-transform: uppercase; font-style: normal; }
 	.text { 
 		display:table-cell; 
 		vertical-align:middle; 
@@ -47,7 +48,16 @@
 		}
 	}
 
+	blockquote {
+		background: $grisfondo;
+		border-radius: 1rem;
+		color: $gris;
+		margin: 1.5rem 0;
+		padding: 1rem;
+	}
+
 	ul { margin: 0; padding: 0;
+		&.asist li { list-style-type: square; padding-bottom: 0.3rem;}
 		li { list-style: none; list-style-position: inside; padding-bottom:1rem; }
 	}
 

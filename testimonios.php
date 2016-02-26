@@ -29,7 +29,7 @@
 						
 						<h3><i class="fa fa-quote-left"></i> Proveemos de personal de confianza</h3>
 						
-						<p>para el servicio dom&eacute;stico por horas para la limpieza de hogar y oficinas.</a></p>
+						<p>para el servicio dom&eacute;stico por horas para la limpieza de hogar y oficinas.</p>
 					</div>
 				</section>
 
@@ -44,7 +44,7 @@
 						
 						<h3><i class="fa fa-quote-left"></i> Proveemos de personal de confianza</h3>
 						
-						<p>para el servicio dom&eacute;stico por horas para la limpieza de hogar y oficinas.</a></p>
+						<p>para el servicio dom&eacute;stico por horas para la limpieza de hogar y oficinas.</p>
 					</div>
 				</section>
 			
