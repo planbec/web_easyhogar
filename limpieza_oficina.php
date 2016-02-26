@@ -94,7 +94,10 @@ Este servicio contempla la limpieza de todas las superficies de tu oficina, para
 						</ul>
 					</li>
 
-				</ul>							
+				</ul>
+			<img src="img/limpieza_hogar.jpg" alt="Limpieza de hogar" class="imagen-sec">
+			<a href="limpieza_hogar.php" class="btn">Leer sobre Limpieza de hogar</a>	
+
 			</div><!-- /.content -->
 
 			

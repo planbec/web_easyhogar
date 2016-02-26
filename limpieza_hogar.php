@@ -98,7 +98,10 @@ El servicio si contempla actividades b&aacute;sicas de preparaci&oacute;n de ali
 						</ul>
 					</li>
 
-				</ul>							
+				</ul>
+			<img src="img/limpieza_oficina.jpg" alt="Limpieza de oficina" class="imagen-sec">
+			<a href="limpieza_oficina.php" class="btn">Leer sobre Limpieza de oficina</a>
+
 			</div><!-- /.content -->
 
 			

@@ -235,6 +235,12 @@ hr.center {
       list-style: none;
       list-style-position: inside;
       padding-bottom: 1rem; }
+  .detalle-servicio.aviso {
+    border: 1px dashed #CCC;
+    /*background: $grisfondo;*/
+    width: 100%;
+    padding: 2rem;
+    border-radius: 1rem; }
   .detalle-servicio .icono {
     width: 12rem;
     display: table-cell;
@@ -257,7 +263,7 @@ hr.center {
 #main-header {
   background: #fcfcfc url(../img/bg_top.png) repeat-x top center;
   border-bottom: 1px solid rgba(216, 216, 216, 0.8);
-  box-shadow: -9px -6px 5px 9px rgba(2, 2, 2, 0.3);
+  box-shadow: -9px -7px 8px 7px rgba(2, 2, 2, 0.3);
   display: table;
   position: fixed;
   top: 0;
@@ -785,6 +791,12 @@ figure.icono-servicio {
   .portafolio-detalle .imagen-destacada {
     margin-bottom: 1.5em;
     text-align: center; }
+  .portafolio-detalle .imagen-sec {
+    width: 100%;
+    max-width: 250px;
+    clear: both;
+    display: block;
+    margin: 0.1rem auto; }
   .portafolio-detalle .container.page-content {
     text-align: center;
     margin-top: 0; }
@@ -1033,6 +1045,7 @@ article.portafolio-resumen img {
     text-align: right; }
 
   #main-menu {
+    box-shadow: -1px 7px 8px -4px #bbb;
     width: 100%;
     clear: both;
     text-align: center;

@@ -47,17 +47,17 @@ Tengo experiencia en limpiar, trapear,aspirar, limpiar ba&ntilde;os, cocinar, en
 
 
 
-				<!-- section class="detalle-servicio">
-					<div class="foto">
-						<img src="img/limpieza01.jpg">
-					</div>
-					<div class="text">
+				<section class="detalle-servicio aviso">
+					<center>
+						<p>Si quieres ser parte de nuestro equipo solo necesitas tener: <br>
+							GANAS, CONVICCIÓN y PASIÓN POR EL SERVICIO AL CLIENTE.<br></p>
+
+						<h3>¡Se parte del equipo EasyHogar!</h3>
+							<a href="trabaje.php" class="btn">Llena el siguiente formulario</a>
 						
-						<h3>Proveemos de personal de confianza</h3>
-						
-						<p>para el servicio dom&eacute;stico por horas para la limpieza de hogar y oficinas.</a></p>
-					</div>
-				</section>< -->
+					</center>
+
+				</section>
 			
 				
 							
