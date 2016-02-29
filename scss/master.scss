@@ -561,7 +561,7 @@ figure.icono-servicio {
 article.portafolio-resumen img { /*margin-bottom:0.5rem;*/ width:60%}
 
 .intro_inf {  
-	background:rgba(0,0,0,.5); 
+	background:rgba(0,0,0,.2); 
 	display: none;
 	padding: 1.4rem; 
 	width:100%;
@@ -609,10 +609,13 @@ article.portafolio-resumen img { /*margin-bottom:0.5rem;*/ width:60%}
 	.testimonio cite{text-align:center}
 	.testimonio cite img{float:none;margin:0 auto}
 
+	#content-area {clear:both; margin-top:8.5rem; }
+
 	.small .redes, .large .redes {
 		p { font-size: 0.8rem !important;}
 		i,strong {font-size: 1.1rem !important;}
 		i { margin: 0 0.5rem;}
+		span {display: none;}
 	}
 }
 

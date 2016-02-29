@@ -19,7 +19,7 @@
 		<li><a href="#">T</a></li>
 		</ul -->
 
-		<p class="wp">Cont&aacute;ctanos al <i class="fa fa-whatsapp"></i>
+		<p class="wp"><span>Cont&aacute;ctanos al </span><i class="fa fa-whatsapp"></i>
  <strong>099 617 9227  -  099 617 1061</strong> </p>
 
 	</div>

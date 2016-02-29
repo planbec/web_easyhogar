@@ -840,7 +840,7 @@ article.portafolio-resumen img {
   width: 60%; }
 
 .intro_inf {
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0.2);
   display: none;
   padding: 1.4rem;
   width: 100%;
@@ -886,12 +886,18 @@ article.portafolio-resumen img {
     float: none;
     margin: 0 auto; }
 
+  #content-area {
+    clear: both;
+    margin-top: 8.5rem; }
+
   .small .redes p, .large .redes p {
     font-size: 0.8rem !important; }
   .small .redes i, .small .redes strong, .large .redes i, .large .redes strong {
     font-size: 1.1rem !important; }
   .small .redes i, .large .redes i {
-    margin: 0 0.5rem; } }
+    margin: 0 0.5rem; }
+  .small .redes span, .large .redes span {
+    display: none; } }
 /* Media Query 530px */
 @media only screen and (max-width: 33.125rem) {
   .detalle-servicio {
