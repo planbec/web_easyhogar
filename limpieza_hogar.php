@@ -42,7 +42,7 @@ El servicio si contempla actividades b&aacute;sicas de preparaci&oacute;n de ali
 				<ul class="prod-thumbs">
 
 					<li>
-					<img src="img/thumb_oficina.jpg" alt="Oficinas">
+					<img src="img/thumb_banos.jpg" alt="Oficinas">
 					<h3>Ba&ntilde;os</h3>
 					<p>Limpieza de:</p>
 						<ul>
@@ -57,7 +57,7 @@ El servicio si contempla actividades b&aacute;sicas de preparaci&oacute;n de ali
 					</li>
 
 					<li>
-					<img src="img/thumb_salareuniones.jpg" alt="Sala de reuniones">
+					<img src="img/thumb_dormitorio.jpg" alt="Sala de reuniones">
 					<h3>Dormitorios</h3>
 					<p>Limpieza de:</p>
 						<ul>
@@ -69,7 +69,7 @@ El servicio si contempla actividades b&aacute;sicas de preparaci&oacute;n de ali
 					</li>
 
 					<li>
-					<img src="img/thumb_banos.jpg" alt="Baños">
+					<img src="img/thumb_sala.jpg" alt="Baños">
 					<h3>Sala comedor</h3>
 					<p>Limpieza de:</p>
 						<ul>
@@ -82,7 +82,7 @@ El servicio si contempla actividades b&aacute;sicas de preparaci&oacute;n de ali
 					</li>
 
 					<li>
-					<img src="img/thumb_cafeteria.jpg" alt="Cafetería">
+					<img src="img/thumb_cocina.jpg" alt="Cafetería">
 					<h3>Cocina</h3>
 					<p>Limpieza de:</p>
 						<ul>
