@@ -601,6 +601,8 @@ article.portafolio-resumen img { /*margin-bottom:0.5rem;*/ width:60%}
 		width:100%
 	}
 
+	.page-header {padding-top: 2rem;}
+
 }
 
 /* Media Query 480px */
@@ -725,8 +727,6 @@ article.portafolio-resumen img { /*margin-bottom:0.5rem;*/ width:60%}
 		ul { margin: 0 0 0 2%; }
 	}
 
-	.page-header {padding-top: 6rem;}
-
 }
 
 
@@ -736,6 +736,7 @@ article.portafolio-resumen img { /*margin-bottom:0.5rem;*/ width:60%}
 	#hero .dispositivos{width:40% }
 
 	#servicios-home a img { display: block; margin: auto;}
+
 }
 
 
@@ -746,6 +747,8 @@ article.portafolio-resumen img { /*margin-bottom:0.5rem;*/ width:60%}
 #main-menu {box-shadow: -1px 7px 8px -4px #bbb; width:100%;clear:both;text-align:center;background:$grisfondo;border:solid .0625rem $blanco;padding:.5em; margin-bottom:2em; margin-top:16px; }
 #main-menu.open{display:block}
 #main-menu.closed{display:none}
+
+.page-header {padding-top: 6rem;}
 
 #main-menu ul li {display:block;width:100%;
 	a{ color:$gris; padding:.5em 1em }

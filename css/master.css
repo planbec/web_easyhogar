@@ -873,7 +873,10 @@ article.portafolio-resumen img {
   .cols .col3, .cols .col4, .cols .col3x2 {
     float: none;
     margin-right: 0;
-    width: 100%; } }
+    width: 100%; }
+
+  .page-header {
+    padding-top: 2rem; } }
 /* Media Query 480px */
 @media only screen and (max-width: 30rem) {
   #testimonios-area .container {
@@ -1021,10 +1024,7 @@ article.portafolio-resumen img {
   #main-footer .footer-call-to-action .contact .footer-menu {
     background: none; }
     #main-footer .footer-call-to-action .contact .footer-menu ul {
-      margin: 0 0 0 2%; }
-
-  .page-header {
-    padding-top: 6rem; } }
+      margin: 0 0 0 2%; } }
 /* Media Query 980px */
 @media only screen and (max-width: 61.25rem) {
   #hero {
@@ -1069,6 +1069,9 @@ article.portafolio-resumen img {
 
   #main-menu.closed {
     display: none; }
+
+  .page-header {
+    padding-top: 6rem; }
 
   #main-menu ul li {
     display: block;
