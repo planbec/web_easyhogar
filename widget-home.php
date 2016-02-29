@@ -17,7 +17,7 @@ Beneficios de la limpieza recurrente</h3>
 	</ul>
 
 <h3>&iquest;M&aacute;s informaci&oacute;n?</h3>
-<p>Para mayor informaci&oacute;n sobre este servicio ll&aacute;manos a los tel&eacute;fonos  <strong>0996179227 - 0996171061</strong> o escríbenos a <a href="mailto:info@easyhogar.com">info@easyhogar.com</a>. Consulta los <a href="#">T&eacute;rminos y condiciones</a> de nuestros servicios.</p>
+<p>Para mayor informaci&oacute;n sobre este servicio ll&aacute;manos a los tel&eacute;fonos  <strong>0996179227 - 0996171061</strong> o escríbenos a <a href="mailto:info@easyhogar.com">info@easyhogar.com</a>. Consulta los <a href="terminos.php">T&eacute;rminos y condiciones</a> de nuestros servicios.</p>
 
 					</div><!-- /.text -->
 				</article><!-- /.servicio-resumen -->

@@ -43,38 +43,10 @@ El servicio si contempla actividades b&aacute;sicas de preparaci&oacute;n de ali
 
 					<li>
 					<img src="img/thumb_oficina.jpg" alt="Oficinas">
-					<h3>Oficinas</h3>
-					<p>Limpieza de:</p>
-						<ul>
-							<li>Escritorios y estaciones de trabajo</li>
-							<li>Sillas, muebles y sofás</li>
-							<li>Anaqueles y repisas</li>
-							<li>Espejos e interior de ventanas</li>
-							<li>Pisos (barrer/aspirar y trapear)</li>
-							<li>Entre otros</li>
-						</ul>
-					</li>
-
-					<li>
-					<img src="img/thumb_salareuniones.jpg" alt="Sala de reuniones">
-					<h3>Sala de reuniones</h3>
-					<p>Limpieza de:</p>
-						<ul>
-							<li>Mesas de reuniones</li>
-							<li>Sillas, muebles y sof&aacute;s</li>
-							<li>Anaqueles y repisas</li>
-							<li>Espejos e interior de ventanas</li>
-							<li>Pisos (barrer/aspirar y trapear)</li>
-							<li>Entre otros</li>
-						</ul>
-					</li>
-
-					<li>
-					<img src="img/thumb_banos.jpg" alt="Baños">
 					<h3>Ba&ntilde;os</h3>
 					<p>Limpieza de:</p>
 						<ul>
-							<li>Inodoros y urinarios</li>
+							<li>Inodoros, duchas y/o ba&ntilde;eras</li>
 							<li>Anaqueles y armarios</li>
 							<li>Espejos e interior de ventanas</li>
 							<li>Accesorios de ba&ntilde;o</li>
@@ -85,12 +57,38 @@ El servicio si contempla actividades b&aacute;sicas de preparaci&oacute;n de ali
 					</li>
 
 					<li>
-					<img src="img/thumb_cafeteria.jpg" alt="Cafetería">
-					<h3>Cafeter&iacute;a</h3>
+					<img src="img/thumb_salareuniones.jpg" alt="Sala de reuniones">
+					<h3>Dormitorios</h3>
 					<p>Limpieza de:</p>
 						<ul>
+							<li>Muebles, anaqueles y/o c&oacute;modas</li>
+							<li>Espejos e interior de ventanas</li>
+							<li>Pisos (barrer/aspirar y trapear)</li>
+							<li>Entre otros</li>
+						</ul>
+					</li>
+
+					<li>
+					<img src="img/thumb_banos.jpg" alt="Baños">
+					<h3>Sala comedor</h3>
+					<p>Limpieza de:</p>
+						<ul>
+							<li>Muebles y sof&aacute;s</li>
+							<li>Anaqueles y repisas</li>
+							<li>Espejos e interior de ventanas</li>
+							<li>Pisos (barrer/aspirar y trapear)</li>
+							<li>Entre otros</li>
+						</ul>
+					</li>
+
+					<li>
+					<img src="img/thumb_cafeteria.jpg" alt="Cafetería">
+					<h3>Cocina</h3>
+					<p>Limpieza de:</p>
+						<ul>
+							<li>Cocinas o encimeras de inducci&oacute;n</li>
 							<li>Exterior de electrodom&eacute;sticos</li>
-							<li>Platos y utensilios</li>
+							<li>Platos y utensilios de cocina</li>
 							<li>Anaqueles y repisas</li>
 							<li>Espejos e interior de ventanas</li>
 							<li>Pisos (barrer/aspirar y trapear)</li>

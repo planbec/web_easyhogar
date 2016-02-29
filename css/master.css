@@ -204,7 +204,7 @@ hr.center {
 
 .detalle-servicio {
   display: table;
-  margin-bottom: 2em; }
+  margin-bottom: 1em; }
   .detalle-servicio h5 {
     color: #009ee2;
     text-transform: uppercase;
@@ -644,7 +644,7 @@ input[type="submit"], input[type="button"] {
     color: #5cad45;
     display: block;
     font: 1.6rem/2rem Dosis,Arial;
-    margin: 1.5rem 0 1rem -0.8rem;
+    margin: 1.5rem 0 0.3rem -0.8rem;
     padding: 0.3rem 1rem;
     text-transform: uppercase; }
   .container.page-content p {
@@ -743,6 +743,8 @@ input[type="submit"], input[type="button"] {
   padding: 0.2rem 1rem; }
 #widget-home h3 {
   color: #5cad45; }
+#widget-home article {
+  text-align: justify; }
 #widget-home .consejos li {
   margin: 0 0 1.5rem 0;
   border-bottom: 1px solid #CCC;
@@ -830,7 +832,8 @@ figure.icono-servicio {
             display: list-item;
             margin: 0;
             padding: 0;
-            width: 100%; }
+            width: 100%;
+            list-style-position: inside; }
 
 article.portafolio-resumen img {
   /*margin-bottom:0.5rem;*/

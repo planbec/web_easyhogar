@@ -27,6 +27,10 @@
 					<input type="text" id="nombre" name="nombre" placeholder="Nombre:" required />
 					
 					<input type="text" id="email" name="email" placeholder="Email:" required />
+
+					<input type="num" id="telefono" name="telefono" placeholder="Teléfono convencional:" required />
+
+					<input type="num" id="celular" name="celular" placeholder="Celular:" required />
 					
 					<input type="text" id="asunto" name="asunto" placeholder="Asunto:" required />
 					

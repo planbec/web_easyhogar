@@ -5,10 +5,12 @@ Recibe los datos ingresados
 ****************************************************************/
 $nombre = $_POST['nombre'];
 $email = $_POST['email'];
+$telefono = $_POST['telefono'];
+$celular = $_POST['celular'];
 $asunto = $_POST['asunto'];
 $comentario = $_POST['mensaje'];
 
-if( empty($nombre) || empty($email) || empty($asunto) || empty($comentario) ) {
+if( empty($nombre) || empty($email) || empty($telefono) || empty($celular) || empty($asunto) || empty($comentario) ) {
 	$error = true;
 }
 
@@ -26,6 +28,8 @@ Aquí se genera el cuerpo del mensaje
 ****************************************************************/
 $mensaje = "De: $nombre \n
 E-mail: $email \n
+Telefono: $telefono \n
+Celular: $celular \n
 Asunto: $asunto \n
 Mensaje: $comentario \n
 \n";
@@ -80,27 +84,27 @@ if( !$error ) {
 						Hubo un error, por favor completa todos los campos.
 					</div>
 				
-					<form action="enviar.php" method="post">
-						
-						<label for="nombre">Nombre:</label>
-						<input type="text" id="nombre" name="nombre" placeholder="¿Cómo te llamas?" value="<?php echo $nombre; ?>" required />
-						
-						<label for="email">Email:</label>
-						<input type="text" id="email" name="email" placeholder="¿A donde debería responderte?" value="<?php echo $email; ?>"  required />
-						
-						<label for="asunto">Asunto:</label>
-						<input type="text" id="asunto" name="asunto" placeholder="¿Sobre qué quieres conversar?" value="<?php echo $asunto; ?>"  required />
-						
-						<label for="mensaje">Mensaje:</label>
-						<textarea id="mensaje" name="mensaje" rows="8" placeholder="Aquí debes explayarte" required ><?php echo $comentario; ?></textarea>
-						
-						<input type="submit" value="Enviar mensaje" class="btn" />
+				<form action="enviar.php" method="post">
 					
-					</form>
+					<input type="text" id="nombre" name="nombre" placeholder="Nombre:" required />
+					
+					<input type="text" id="email" name="email" placeholder="Email:" required />
+
+					<input type="num" id="telefono" name="telefono" placeholder="Teléfono convencional:" required />
+
+					<input type="num" id="celular" name="celular" placeholder="Celular:" required />
+					
+					<input type="text" id="asunto" name="asunto" placeholder="Asunto:" required />
+					
+					<textarea id="mensaje" name="mensaje" rows="8" placeholder="Mensaje:" required ></textarea>
+					
+					<input type="submit" value="Enviar mensaje" class="btn" />
+				
+				</form>
 				
 				<?php } else { ?>
 				
-					<p>Gracias por contactarte conmigo, responderé lo más pronto que pueda :)</p>
+					<p>Gracias por contactarte con nosotros, en breve responderemos su correo.</p>
 				
 				<?php } ?>
 			
