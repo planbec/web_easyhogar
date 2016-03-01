@@ -24,18 +24,18 @@ Beneficios de la limpieza recurrente</h3>
 				
 				
 				<article class="col3">
-					<div class="text">
+					<div>
 						<h2>Consejos de limpieza</h2>
 			<ul class="consejos">
 				<li>
 					<h3>Barrer f&aacute;cilmente</h3>
-					<p>Para lograr un barrido m&aacute;s eficaz que deje cualquier piso libre de cualquier pelusa o mota de polvo, la soluci&oacute;n est&aacute; en envolver la escoba en una media de nylon, con lo cual te asegurar&aacute;s de recoger hasta lo que no se ve, ya que el nylon tiene la propiedad de cargarse est&aacute;ticamente y podr&aacute;s recoger cada pequeña partícula que est&eacute; en el suelo.
+					<p>Para lograr un barrido m&aacute;s eficaz que deje cualquier piso libre de cualquier pelusa o mota de polvo, la soluci&oacute;n est&aacute; en envolver la escoba en una media de nylon, con lo cual te asegurar&aacute;s de recoger...
 					</p>
 				</li>
 
 				<li>
 					<h3>Azulejos impecables</h3>
-					<p>Disuelve un poco de amoniaco en agua y limpia los azulejos con papel peri&oacute;dico humedecido con la mezcla. En vez de usar amoniaco, tambi&eacute;n puedes usar vinagre. Si est&aacute;n muy sucios, prueba con hacer una pasta con bicarbonato y lejía y a continuaci&oacute;n frota con un cepillo y enjuaga bien.
+					<p>Disuelve un poco de amoniaco en agua y limpia los azulejos con papel peri&oacute;dico humedecido con la mezcla. En vez de usar amoniaco, tambi&eacute;n puedes usar vinagre. Si est&aacute;n muy sucios...
 					</p>
 				</li>		
 			</ul>

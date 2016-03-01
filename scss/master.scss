@@ -175,7 +175,9 @@ header, .logo-header, .redes, img {
 	float: right;
 	ul {margin:0;padding:0;list-style:none;background:0;
 		li{ display:inline-block; 
-			font: 1.1rem Dosis, Arial; text-transform: uppercase;
+			font: 1.1rem Dosis, Arial;
+			margin: 0 0.3rem; 
+			text-transform: uppercase;
 			.featured a {
 				background:#50c5ab;
 				color:#fff;
@@ -523,6 +525,7 @@ input[type="submit"],input[type="button"]{border:0;color:#fff;display:inline-blo
 
 
 #widget-home {
+	padding-bottom: 1rem;
 	h2 {
 		background: $azul;
 		color: $blanco;
@@ -538,7 +541,10 @@ input[type="submit"],input[type="button"]{border:0;color:#fff;display:inline-blo
 
 	ul { margin:0.8rem 0 1.5rem; }
 
-	p { font-size: 1.1rem; line-height: 1.7rem; }
+	p { font-size: 1.1rem; line-height: 1.7rem; 
+		&:last-child { border-bottom: 1px solid #CCC; padding-bottom: 1.2rem; }
+
+	}
 
 	.consejos {
 		li {
@@ -546,6 +552,7 @@ input[type="submit"],input[type="button"]{border:0;color:#fff;display:inline-blo
 			border-bottom: 1px solid #CCC;
 			padding-bottom: 1rem;
 			list-style-image: url(../img/bull_com.png);
+			p { border-bottom:0 }
 		}
 	}
 }

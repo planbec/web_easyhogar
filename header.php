@@ -36,7 +36,7 @@
 					<li><a href="comofunciona.php" <?php if($uri == 'comofunciona') echo 'class="active"'?> >C&oacute;mo funciona</a></li>
 					<li><a href="servicios.php" <?php if($uri == 'servicios') echo 'class="active"'?> >Servicios</a></li>
 					<li><a href="asistentes.php" <?php if($uri == 'asistentes') echo 'class="active"'?> >Nuestras asistentes</a></li>
-					<li><a href="testimonios.php" <?php if($uri == 'testimonios') echo 'class="active"'?> >Testimonios</a></li>
+					<!--li><a href="testimonios.php" <?php if($uri == 'testimonios') echo 'class="active"'?> >Testimonios</a></li-->
 					<li><a href="contactos.php" <?php if($uri == 'contactos') echo 'class="active"'?> >Cont&aacute;ctanos</a></li>
 				</ul>
 			</nav>
