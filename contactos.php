@@ -11,7 +11,7 @@
 			<header class="page-header">
 				<div class="container">
 					
-					<h1><i class="fa fa-envelope-o"></i> Contactos</h1>					
+					<h1><i class="fa fa-envelope-o"></i> Cont&aacute;ctanos</h1>					
 				
 				</div>
 			</header><!-- /.page-header -->

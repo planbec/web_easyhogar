@@ -15,11 +15,11 @@
 			
 			
 			<div class="container page-content">
-				<h2>Limpieza de hogar</h2>
+				<h2>Limpieza de hogares</h2>
 				
 				<img src="img/limpieza_hogar.jpg" alt="Limpieza de hogar" class="imagen-destacada">
 				
-				<p><strong>Con EasyHogar disfrutas de tu casa limpia y tu tiempo libre.</strong><br>
+				<p><strong>Con EasyHogar disfruta de tu casa limpia y tu tiempo libre.</strong><br>
 
 Este servicio contempla la limpieza de todas las superficies del hogar, tales como la sala, comedor, cocina, dormitorios y dem&aacute;s. Nuestras Asistentes de Hogar se encargar&aacute;n de la limpieza y organizaci&oacute;n, siempre en funci&oacute;n de las prioridades que le asignes y del tiempo de servicio contratado.</p>
 

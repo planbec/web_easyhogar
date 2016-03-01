@@ -33,7 +33,7 @@
 						
 						<h3>Nos contactas y agendas tu servicio</h3>
 						
-						<p>Ll&aacute;manos al los tel&eacute;fonos o por email a <a href="mailto:info@easyhogar.com">info@easyhogar.com</a></p>
+						<p>Para reservar tu servicio llámanos a los tel&eacute;fonos 099 617 9227 - 099 617 1061 o escr&iacute;benos a <a href="mailto:info@easyhogar.com">info@easyhogar.com</a></p>
 					</div><!-- /.text -->
 				</section><!-- /.detalle-servicio -->
 
@@ -50,7 +50,7 @@
 						
 						<h3>Te visitamos y nos encargamos de la limpieza</h3>
 						
-						<p>Nuestras asistentes de hogar atender&aacute;n tus requerimientos de limpieza</p>
+						<p>Nuestras Asistentes de Hogar atender&aacute;n tus requerimientos de limpieza.</p>
 					</div><!-- /.text -->
 				</section><!-- /.detalle-servicio -->
 
@@ -63,9 +63,9 @@
 					</div><!-- /.icono -->
 					<div class="text">
 						
-						<h3>&iexcl;Eso es todo! Disfruta de tu hogar</h3>
+						<h3>Eso es todo. Disfruta de tu hogar</h3>
 						
-						<p>Disfruta de tu casa limpia y organizada... como te gusta</p>
+						<p>Disfruta de tu espacio limpio y organizado... &iexcl;Como te gusta!</p>
 					</div><!-- /.text -->
 				</section><!-- /.detalle-servicio -->
 			

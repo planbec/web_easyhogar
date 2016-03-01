@@ -11,9 +11,9 @@
 <h3>
 Beneficios de la limpieza recurrente</h3>	
 	<ul>
+		<li>Obtienes descuentos especiales de acuerdo a la frecuencia requerida.</li>	
+		<li>Planificas la limpieza para tus días preferidos.</li>
 		<li>Puedes reservar a tu Asistente de Hogar favorita.</li>				
-		<li>Obtienes descuentos especiales de acuerdo a la frecuencia <requerida.</li>	
-		<li>Planificas la limpieza para tus días preferidos.</li>			
 	</ul>
 
 <h3>&iquest;M&aacute;s informaci&oacute;n?</h3>
@@ -50,7 +50,7 @@ Beneficios de la limpieza recurrente</h3>
 					<div class="text" style="width: 100%;">
 						<h2>Facebook</h2>
 
-<div class="fb-page" data-href="https://www.facebook.com/multimediaPlanB/" data-width="100%" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/multimediaPlanB/"><a href="https://www.facebook.com/multimediaPlanB/">Agencia multimedia PLAN B</a></blockquote></div></div>
+<div class="fb-page" data-href="https://www.facebook.com/profile.php?id=100010617210902" data-width="100%" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/multimediaPlanB/"><a href="https://www.facebook.com/multimediaPlanB/">Agencia multimedia PLAN B</a></blockquote></div></div>
 <!-- div class="fb-page" data-href="https://www.facebook.com/multimediaPlanB/" data-width="100%" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/multimediaPlanB/"><a href="https://www.facebook.com/multimediaPlanB/">Agencia multimedia PLAN B</a></blockquote></div></div -->
 
 					</div><!-- /.text -->

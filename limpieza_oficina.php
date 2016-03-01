@@ -15,7 +15,7 @@
 			
 			
 			<div class="container page-content">
-				<h2>Limpieza de oficina</h2>
+				<h2>Limpieza de oficinas</h2>
 				
 				<img src="img/limpieza_oficina.jpg" alt="Limpieza de oficina" class="imagen-destacada">
 				
