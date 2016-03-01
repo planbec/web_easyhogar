@@ -23,7 +23,7 @@
 			
 			<div class="container page-content">
 			
-				<section class="detalle-servicio">
+				<section class="detalle-servicio terminos">
 <p>La p&aacute;gina web <a href="http://www.easyhogar.com">www.easyhogar.com</a> es administrada y propiedad exclusiva de <strong>EASYHOGAR Cia. Ltda.</strong>, la cual se encuentra domiciliada en la ciudad de Guayaquil, en la provincia del Guayas en la Rep&uacute;blica del Ecuador.</p>
 
 <h3>1.- DEL AVISO LEGAL PARA LAS CONDICIONES DE USO</h3>
@@ -45,7 +45,49 @@ Por su parte, se entender&aacute; que desde el momento en que accede a la p&aacu
 <li>2.2   Por medio de <a href="http://www.easyhogar.com">www.easyhogar.com</a> y con la aceptaci&oacute;n de las CONDICIONES DE USO, el USUARIO realiza una orden de compra, la cual incluye la descripci&oacute;n de los servicios contratados. Junto con el   env&iacute;o de la orden de compra el USUARIO es conocedor de los costos asociados a dichos servicios. Si el USUARIO acepta realizar la compra pasar&aacute; a denominarse “EL CLIENTE”.</li>
 <li>2.3   Por su parte, una vez contratado el servicio por EL CLIENTE y realizado el pago de los costos por dicho servicio, <strong>EASYHOGAR Cia. Ltda.</strong>, se compromete a cumplir con el servicio contratado por EL   CLIENTE.<br>
 Es importante destacar que cualquier tarea no contratada por EL CLIENTE, no son parte del contrato y responsabilidad de <strong>EASYHOGAR Cia. Ltda.</strong>, por lo que al no cumplirlas, no podr&aacute;n ser   consideradas como causa de incumplimiento. Las tareas contratadas por EL CLIENTE ser&aacute;n realizadas por un trabajador de <strong>EASYHOGAR Cia. Ltda.</strong>, en el lugar y a la hora especificada por EL CLIENTE.</li>
-<li>2.4 Para realizar el servicio EL CLIENTE proveer&aacute; de los insumos (qu&iacute;micos y materiales) necesarios para realizar la limpieza, tanto en los hogares como en las oficinas.
+<li>2.4 Para realizar el servicio EL CLIENTE proveer&aacute; de los insumos (qu&iacute;micos y materiales) necesarios para realizar la limpieza, tanto en los hogares como en las oficinas <a href="#miModal">Productos Recomendados de Limpieza</a>.<div id="miModal" class="modal">
+	  <div class="modal-contenido">
+	    <a href="#" class="cerrar">X</a>
+	    <h3>Productos recomendados de limpieza</h3>
+	    <p>Si no estás seguro de los productos que deberás tener para la limpieza te recomendamos los siguientes.</p>
+
+<h5>Insumos químicos:</h5>
+<ul>
+<li>Desengrasantes</li>
+<li>Limpiacristales</li>
+<li>Detergentes en polvo</li>
+<li>Desinfectantes</li>
+<li>Aromatizantes</li>
+<li>Cloro </li>
+<li>Limpiador de muebles </li>
+</ul>
+
+
+<h5>Equipos, utensilios y recipientes:</h5>
+<ul>
+<li>Baldes</li>
+<li>Trapeadores</li>
+<li>Aspiradora</li>
+<li>Escobas</li>
+<li>Cepillos </li>
+<li>Ventosa</li>
+</ul>
+
+
+<h5>Insumos para limpieza:</h5>
+<ul>
+<li>Guantes finos de caucho</li>
+<li>Guantes gruesos de caucho</li>
+<li>Mascarillas</li>
+<li>Protectores de ojos</li>
+<li>Trapos limpios de fibra</li>
+<li>Papel de cocina</li>
+<li>Estropajos </li>
+<li>Fundas para basura</li>
+</ul>
+	  </div>  
+	</div>
+</li>
 <li>2.5 EASYHOGAR proveer&aacute; los insumos qu&iacute;micos previa solicitud del cliente y con un costo adicional al costo del servicio contratado. En caso de que EL CLIENTE decida proveer los insumos qu&iacute;micos y materiales para la limpieza, y no se pueda realizar la misma a satisfacci&oacute;n por falta de estos insumos, no podr&aacute; ser considerada como causa de incumplimiento.</li>
 </li>
 </ul>

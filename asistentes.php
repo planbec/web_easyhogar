@@ -11,7 +11,7 @@
 			<header class="page-header">
 				<div class="container">
 					
-					<h1><i class="fa fa-users"></i> Nuestras asistentes</h1>
+					<h1><i class="fa fa-female fa-3x"></i><i class="fa fa-female fa-3x"></i> Nuestras asistentes</h1>
 					
 					<!--p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut massa non ipsum<br />
 					fermentum rhoncus non vel neque. Phasellus varius feugiat purus vel sodales. </p-->
@@ -36,11 +36,13 @@
 							<li>10 a&ntilde;os de experiencia </li>
 							<li>Bachillerato  </li>
 							<li>Limpieza de hogares y oficinas  </li>
-							<li>Cuidado de niños y adultos mayores</li>
+							<li>Cuidado de ni&ntilde;os y adultos mayores</li>
 							<li>Puntualidad y buen trato</li>
 						</ul>
-						<blockquote><strong>&iexcl;Conóceme!</strong><br>Hola soy Lina, Responsable, honesta y apasionada por mi trabajo.
-Tengo experiencia en limpiar, trapear,aspirar, limpiar ba&ntilde;os, cocinar, entre otros.</blockquote>
+						<blockquote><strong>&iexcl;Conóceme!</strong><br>Soy responsable, honesta y apasionada por mi trabajo. 
+Tengo experiencia en hogares y oficinas realizando tareas de limpieza de salas, dormitorios, ba&ntilde;os, cocinas, lobbies, &aacute;reas 
+
+comunes y dem&aacute;s.</blockquote>
 					</div>
 				</section>
 
@@ -50,7 +52,7 @@ Tengo experiencia en limpiar, trapear,aspirar, limpiar ba&ntilde;os, cocinar, en
 				<section class="detalle-servicio aviso">
 					<center>
 						<p>Si quieres ser parte de nuestro equipo solo necesitas tener: <br>
-							GANAS, CONVICCIÓN y PASIÓN POR EL SERVICIO AL CLIENTE.<br></p>
+							GANAS, CONVICCI&Oacute;N y PASIÓN POR EL SERVICIO AL CLIENTE.<br></p>
 
 						<h3>¡Se parte del equipo EasyHogar!</h3>
 							<a href="trabaje.php" class="btn">Llena el siguiente formulario</a>

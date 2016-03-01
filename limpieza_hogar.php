@@ -27,17 +27,13 @@ Este servicio contempla la limpieza de todas las superficies del hogar, tales co
 
 El servicio tambi&eacute;n considera el planchado simple de camisas, trajes, faldas, pantalones, chalecos y vestidos, sin embargo no contempla el lavado, secado y planchado de prendas delicadas o que requieran de alg&uacute;n tratamiento especial.</p>
 
-<p>El servicio no contempla la preparaci&oacute;n compleja de alimentos bajo la funci&oacute;n de cocinera principal, pero si contempla el ayudar en la preparaci&oacute;n con actividades espec&iacute;ficas como lavar vegetales, condimentar carnes, lavar platos, entre otros.
-
-El servicio si contempla actividades b&aacute;sicas de preparaci&oacute;n de alimentos como desayunos b&aacute;sicos, s&aacute;ndwiches, preparar y servir bebidas frías o calientes.</p>
-
 <h3>&iquest;Deseas olvidarte para siempre de la limpieza?</h3>
-<p>Te recomendamos nuestro servicio de Limpieza Peri&oacute;dica y descubrir&aacute;s grandes descuentos y beneficios.</p> 
+<p>Te recomendamos nuestro servicio de Limpieza recurrente y descubrir&aacute;s grandes descuentos y beneficios.</p> 
 
 <h3>&iquest;Necesitas mayor informaci&oacute;n?</h3>
-<p>Cont&aacute;ctanos a los tel&eacute;fonos  0996179227 - 0996171061 o escríbenos a info@easyhogar.com.</p>
+<p>Cont&aacute;ctanos a los tel&eacute;fonos  0996179227 - 0996171061 o escríbenos a <a href="mailto:info@easyhogar.com">info@easyhogar.com</a>.</p>
 
-<p>Consulta los <a href="#">T&eacute;rminos y condiciones</a> de nuestros servicios.</p>
+<p>Consulta los <a href="terminos.php">T&eacute;rminos y Condiciones</a> de nuestros servicios.</p>
 
 				<ul class="prod-thumbs">
 
@@ -98,7 +94,7 @@ El servicio si contempla actividades b&aacute;sicas de preparaci&oacute;n de ali
 
 				</ul>
 			<img src="img/limpieza_oficina.jpg" alt="Limpieza de oficina" class="imagen-sec">
-			<a href="limpieza_oficina.php" class="btn">Leer sobre Limpieza de oficina</a>
+			<a href="limpieza_oficina.php" class="btn">Leer sobre Limpieza de oficinas</a>
 
 			</div><!-- /.content -->
 

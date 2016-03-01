@@ -8,9 +8,8 @@
 
 				<div class="footer-menu">
 				<ul>
-					<li><a href="comofunciona.php" <?php if($uri == 'comofunciona') echo 'class="active"'?> >C&oacute;mo funciona</a></li>
-					<li><a href="limpieza_hogar.php" <?php if($uri == 'servicios') echo 'class="active"'?> >Limpieza de hogares</a></li>
-					<li><a href="limpieza_oficina.php" <?php if($uri == 'servicios') echo 'class="active"'?> >Limpieza de oficinas</a></li>
+					<li><a href="sobrenosotros.php" <?php if($uri == 'sobrenosotros') echo 'class="active"'?> >Sobre nosotros</a></li>
+					<li><a href="politicas_calidad.php" <?php if($uri == 'politicas_calidad') echo 'class="active"'?> >Pol&iacute;ticas de calidad y confianza</a></li>
 					<li><a href="terminos.php" <?php if($uri == 'terminos') echo 'class="active"'?> >T&eacute;rminos y condiciones</a></li>
 					<li><a href="trabaje.php" <?php if($uri == 'trabaje') echo 'class="active"'?> >Trabaje con nosotros</a></li>
 				</ul>
