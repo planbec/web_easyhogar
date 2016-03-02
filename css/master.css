@@ -212,6 +212,8 @@ hr.center {
   .detalle-servicio .text {
     display: table-cell;
     vertical-align: middle; }
+    .detalle-servicio .text p {
+      font-size: 1.05rem !important; }
   .detalle-servicio .foto {
     margin: 1rem; }
     .detalle-servicio .foto img {
@@ -695,8 +697,8 @@ input[type="submit"], input[type="button"] {
     text-transform: uppercase; }
   .container.page-content p {
     font-size: 1.1rem;
-    line-height: 1.8rem;
-    margin-bottom: 2rem; }
+    line-height: 1.6rem;
+    margin-bottom: 1.7rem; }
 
 .portafolio-resumen {
   padding-bottom: 2.5rem;
@@ -738,7 +740,7 @@ input[type="submit"], input[type="button"] {
 #hero p {
   margin: 1em 0; }
 
-.terminos {
+.terminos, .consejos {
   text-align: justify; }
 
 .servicio-resumen {
@@ -839,6 +841,7 @@ figure.icono-servicio {
       text-decoration: none;
       display: block;
       font: 1.6rem Dosis,Arial;
+      font-weight: 600;
       margin: 0 0 1rem -0.8rem;
       padding: 0.3rem 1rem; }
       .portafolio-resumen h2 a:hover {

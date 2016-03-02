@@ -28,7 +28,7 @@ Este servicio contempla la limpieza de todas las superficies del hogar, tales co
 El servicio tambi&eacute;n considera el planchado simple de camisas, trajes, faldas, pantalones, chalecos y vestidos, sin embargo no contempla el lavado, secado y planchado de prendas delicadas o que requieran de alg&uacute;n tratamiento especial.</p>
 
 <h3>&iquest;Deseas olvidarte para siempre de la limpieza?</h3>
-<p>Te recomendamos nuestro servicio de Limpieza recurrente y descubrir&aacute;s grandes descuentos y beneficios.</p> 
+<p>Te recomendamos nuestro servicio de <strong>Limpieza Recurrente</strong> y descubrir&aacute;s grandes descuentos y beneficios.</p> 
 
 <h3>&iquest;Necesitas mayor informaci&oacute;n?</h3>
 <p>Cont&aacute;ctanos a los tel&eacute;fonos  0996179227 - 0996171061 o escríbenos a <a href="mailto:info@easyhogar.com">info@easyhogar.com</a>.</p>

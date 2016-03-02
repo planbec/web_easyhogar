@@ -5,60 +5,30 @@
 	
 	<main id="content-area">
 	
-		<article class="single-page">
-			
+		<article class="single-page portafolio-detalle">
 			
 			<header class="page-header">
 				<div class="container">
-					
 					<h1><i class="fa fa-magic"></i> &iquest;Qu&eacute; hacemos?</h1>
-					
-					<!--p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ut massa non ipsum<br />
-					fermentum rhoncus non vel neque. Phasellus varius feugiat purus vel sodales. </p-->
-				
 				</div>
 			</header><!-- /.page-header -->
 			
 			
-			
 			<div class="container page-content">
-			
-				<section class="detalle-servicio">
-					<div class="foto">
-						<img src="img/limpieza01.jpg">
-					</div><!-- /.foto -->
-					<div class="text">
-						
-						<h3>Proveemos de personal de confianza</h3>
-						
-						<p>para la limpieza por horas de hogares y oficinas.</a></p>
-					</div><!-- /.text -->
-				</section><!-- /.detalle-servicio -->
-
-
-
-
-				<section class="detalle-servicio">
-					<div class="foto">
-						<img src="img/limpieza02.jpg">
-					</div><!-- /.foto -->
-					<div class="text">
-						
-						<h3>Servicio dom&eacute;stico de confianza para la limpieza y cuidado de tu hogar</h3>
-						
-						<p>No te preocupes de tr&aacute;mites legares y prestaciones sociales<br>&iexcl;Nosotros lo hacemos por t&iacute;!</p>
-					</div><!-- /.text -->
-				</section><!-- /.detalle-servicio -->
-			
 				
-							
+				<img src="img/asistentes_limpieza.jpg" alt="Equipo de asistentes domésticas" class="imagen-destacada">
+				
+				<h4>PROVEEMOS DE PERSONAL DE CONFIANZA</h4>
+<p style="font-size:1.5rem; margin-top: -1rem;">para la limpieza por horas de hogares y oficinas.</p>			
+
 			</div><!-- /.content -->
+
 			
 		</article><!-- /#single-page -->
 	</main><!-- /#content-area -->	
 	
 	
 <?php include("footer.php"); ?>
-
+	
 </body>
 </html>

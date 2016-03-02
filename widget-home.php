@@ -28,14 +28,14 @@ Beneficios de la limpieza recurrente</h3>
 						<h2>Consejos de limpieza</h2>
 			<ul class="consejos">
 				<li>
-					<h3>Barrer f&aacute;cilmente</h3>
-					<p>Para lograr un barrido m&aacute;s eficaz que deje cualquier piso libre de cualquier pelusa o mota de polvo, la soluci&oacute;n est&aacute; en envolver la escoba en una media de nylon, con lo cual te asegurar&aacute;s de recoger...
+					<h3>Limpiar su refrigeradora</h3>
+					<p>Recuerden desconectar su refrigeradora y así evitar alg&uacute;n accidente no deseado. Luego que te has asegurado de desconectar tu refrigerador, comienza por retirar del mismo toda la comida...
 					</p>
 				</li>
 
 				<li>
-					<h3>Azulejos impecables</h3>
-					<p>Disuelve un poco de amoniaco en agua y limpia los azulejos con papel peri&oacute;dico humedecido con la mezcla. En vez de usar amoniaco, tambi&eacute;n puedes usar vinagre. Si est&aacute;n muy sucios...
+					<h3>Limpiar la plancha</h3>
+					<p>En un recipiente agrega un poco de vinagre, cali&eacute;ntalo hasta una temperatura que soportes ya que luego deber&aacute;s mojar un paño con el vinagre caliente y pasarlo  por la base de la plancha...
 					</p>
 				</li>		
 			</ul>

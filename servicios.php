@@ -20,9 +20,9 @@
 					<article class="portafolio-resumen col2">
 						<a href="limpieza_hogar.php"><img src="img/limpieza_hogar.jpg" alt="Limpieza de hogar" /></a>
 						<header>
-							<h2><a href="limpieza_hogar.php">Limpieza de hogar</a></h2>
+							<h2><a href="limpieza_hogar.php">Limpieza de hogares</a></h2>
 						</header>
-						<p>Disfrutas de tu casa limpia y tu tiempo libre.</p>
+						<p>Disfruta de tu casa limpia y tu tiempo libre.</p>
 						<a href="limpieza_hogar.php" class="btn btn-light">Leer m&aacute;s</a>
 					</article><!-- /.portafolio-resumen -->
 					
