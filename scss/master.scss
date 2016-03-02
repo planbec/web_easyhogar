@@ -21,7 +21,7 @@
 
 .cols .col4{float:left;width:23%; margin:0 1% 2em}
 .cols .col4:nth-child(4n){margin-right:0}
-.cols .col4:nth-child(4n+5){clear:left}
+/*.cols .col4:nth-child(4n+5){clear:left}*/
 
 .cols:before,.cols:after{content:" ";display:table}
 .cols:after{clear:both}
@@ -473,7 +473,7 @@ input[type="submit"],input[type="button"]{border:0;color:#fff;display:inline-blo
 
 .servicio-resumen { 
 	text-align:center; 
-    padding-right: 1rem;
+    /*padding-right: 1rem;*/
 	.icono { display:block; 
 		.icono-servicio{ margin:0 auto ;
 		}
@@ -485,14 +485,54 @@ input[type="submit"],input[type="button"]{border:0;color:#fff;display:inline-blo
 }
 
 
+/* Testimonios home*/
+    .testim{
+        /* Debe tener especificadas las dimensiones para poder animarlas */
+        width: 100%;
+        height: 100px;
+        background: #f7f7f7;
+        cursor: pointer;
+        margin-bottom: 1.8rem;
+        padding: 0.5rem;
+     	overflow:hidden;
+        
+        /* Definir transiciones */
+         -webkit-transition-property:height; 
+         -webkit-transition-duration: 0.2s;  
+         -webkit-transition-timing-function: linear; 
+            
+         -moz-transition-property:height; 
+         -moz-transition-duration: 0.2s;  
+         -moz-transition-timing-function: linear; 
+         
+         transition-property:height;  
+         transition-duration: 0.2s;  
+         transition-timing-function: linear; 
+        
+        /* Estilos adicionales */
+        text-align: center;
+        border-radius: 6px;
+        border: 1px solid #eee;
+    }
+     
+    .testim:hover{
+      box-shadow: 0px 0px 6px 3px #009ee2;  
+      background: $blanco;
+      border-color: $grisfondo;
+      height: 230px;
+    }
+
+
 #servicios-home {
 	padding:0;
+
+	p {margin-bottom: 0.5rem;}
 
 	.text-center {
 		padding: 2rem;
 		p {
-			background: $grisfondo;
-			border-radius: 1rem;
+			/*background: $grisfondo;
+			border-radius: 1rem;*/
 			color: $azul;
 			font: 1.8rem 'Dosis',sans-serif;
 			padding: 1rem;
@@ -505,8 +545,24 @@ input[type="submit"],input[type="button"]{border:0;color:#fff;display:inline-blo
 	}
 
 	h2 {
+		background: $grisfondo;
+		border-radius: 0.5rem;
+		color:$verde;
+		font:normal 1.8rem 'Dosis',sans-serif;
+		font-weight: 500;
 		text-transform: uppercase;
+		text-align: center;
 	}
+
+	h3 {
+		border-radius: 0.5rem;
+		color:$azul;
+		font:normal 1.4rem 'Dosis',sans-serif;
+		font-weight: 500;
+		text-transform: uppercase;
+		text-align: center;
+		margin-bottom: 0.8rem;
+	} 
 	a {
 		color: $gris;
 		&:hover {

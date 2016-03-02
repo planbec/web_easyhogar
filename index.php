@@ -22,7 +22,7 @@
 	</aside>
 		
 	<!-- Servicios -->	
-		<?php include("servicios-home.php"); ?>
+		<?php include("testimonios-home.php"); ?>
 	
 	</main>
 	
