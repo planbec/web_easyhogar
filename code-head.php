@@ -14,6 +14,11 @@ $uri = (empty($uri)) ? 'index' : $uri;
 	<title>EASYHOGAR - Servicio doméstico de confianza</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 	<meta name="author" content="Carlos Zambrano M. - PlanB.ec | Francisco Aguilera G. - http://franciscoamk.com">
+
+    <meta http-equiv="Expires" content="0">
+    <meta http-equiv="Last-Modified" content="0">
+    <meta http-equiv="Cache-Control" content="no-cache, mustrevalidate">
+    <meta http-equiv="Pragma" content="no-cache">
 	
 	<link rel="stylesheet" href="css/master.css" >
 	<link rel="stylesheet" href="css/normalize.css" >
