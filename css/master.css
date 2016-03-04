@@ -1152,7 +1152,10 @@ article.portafolio-resumen img {
 
   #servicios-home a img {
     display: block;
-    margin: auto; } }
+    margin: auto; }
+
+  .publicidad {
+    display: none; } }
 /* Media Query 1200px */
 @media only screen and (max-width: 70rem) {
   #main-header {

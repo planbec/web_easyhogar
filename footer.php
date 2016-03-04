@@ -44,6 +44,7 @@
 		</div><!-- /#bottom-footer -->
 		
 	</footer>
+<script src="js/functions.js"></script>
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -55,7 +56,7 @@
   ga('send', 'pageview');
 </script>
 
-<center>
+<div class="publicidad">
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- PlanB -->
 <ins class="adsbygoogle"
@@ -65,8 +66,8 @@
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-</center
+</div>
 
-<script src="js/functions.js"></script>
+
 
 
