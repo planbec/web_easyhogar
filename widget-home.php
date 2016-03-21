@@ -28,16 +28,17 @@ Beneficios de la limpieza recurrente</h3>
 						<h2>Consejos de limpieza</h2>
 			<ul class="consejos">
 				<li>
-					<h3>Limpiar su refrigeradora</h3>
-					<p>Recuerden desconectar su refrigeradora y así evitar alg&uacute;n accidente no deseado. Luego que te has asegurado de desconectar tu refrigerador, comienza por retirar del mismo toda la comida...
+					<h3>Consejos para la oficina</h3>
+					<p>En el escritorio es pr&aacute;cticamente en donde se lleva a cabo la mayor&iacute;a de nuestro trabajo, es un lugar muy importante y especial y en donde solemos pasar mucho tiempo...
 					</p>
 				</li>
 
 				<li>
-					<h3>Limpiar la plancha</h3>
-					<p>En un recipiente agrega un poco de vinagre, cali&eacute;ntalo hasta una temperatura que soportes ya que luego deber&aacute;s mojar un paño con el vinagre caliente y pasarlo  por la base de la plancha...
+					<h3>Limpiar su refrigeradora</h3>
+					<p>Recuerden desconectar su refrigeradora y así evitar alg&uacute;n accidente no deseado. Luego que te has asegurado de desconectar tu refrigerador, comienza por retirar del mismo toda la comida...
 					</p>
-				</li>		
+				</li>
+	
 			</ul>
 			<center><a href="consejos-limpieza.php" class="btn">Ver m&aacute;s</a></center>
 
