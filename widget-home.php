@@ -51,8 +51,7 @@ Beneficios de la limpieza recurrente</h3>
 					<div class="text" style="width: 100%;">
 						<h2>Facebook</h2>
 
-<div class="fb-page" data-href="https://www.facebook.com/Easyhogar-Cia-Ltda-1063596393664166/?pnref=lhc" data-width="100%" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/multimediaPlanB/"><a href="https://www.facebook.com/multimediaPlanB/">Agencia multimedia PLAN B</a></blockquote></div></div>
-<!-- div class="fb-page" data-href="https://www.facebook.com/multimediaPlanB/" data-width="100%" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/multimediaPlanB/"><a href="https://www.facebook.com/multimediaPlanB/">Agencia multimedia PLAN B</a></blockquote></div></div -->
+<div class="fb-page" data-href="https://www.facebook.com/Easyhogar-Cia-Ltda-1063596393664166/?pnref=lhc" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true" ></div>
 
 					</div><!-- /.text -->
 				</article><!-- /.servicio-resumen -->
