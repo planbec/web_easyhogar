@@ -13,12 +13,13 @@
 				<h2 class="slogan">Servicio dom&eacute;stico de confianza</h2>
 			</div>
 
-	<div class="redes">
-		<!-- ul>
-		<li><a href="#">F</a></li>
-		<li><a href="#">T</a></li>
-		</ul -->
+		<ul class="redes">
+			<li><a href="https://www.facebook.com/Easyhogar-Cia-Ltda-1063596393664166/" target="blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+			<li><a href="https://twitter.com/easyhogarecu" target="blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+			<li><a href="https://www.instagram.com/easyhogar/" target="blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+		</ul>
 
+	<div class="call-action">
 		<p class="wp"><span>Cont&aacute;ctanos al </span><i class="fa fa-whatsapp"></i>
  <strong>099 617 9227  -  099 617 1061</strong> </p>
 

@@ -22,27 +22,44 @@
 			
 			
 			<div class="container page-content">
-			
+
+
 				<section class="detalle-servicio">
 					<div class="foto">
-						<img src="img/asist_lina_pacheco.jpg" Title="Lina Pacheco">
+						<img src="img/asist_flor.jpg" Title="Flor Tomalá">
 					</div>
 					<div class="text">
 						
-						<h3>Lina Pacheco</h3>
+						<h3>Flor Tomal&aacute;</h3>
 						
-						<h5>Asistente de Hogar </h5>
+						<h5>Asistente de limpieza </h5>
 						<ul class="asist">
-							<li>10 a&ntilde;os de experiencia </li>
+							<li>25 a&ntilde;os de experiencia en tareas de limpieza </li>
 							<li>Bachillerato  </li>
 							<li>Limpieza de hogares y oficinas  </li>
-							<li>Cuidado de ni&ntilde;os y adultos mayores</li>
-							<li>Puntualidad y buen trato</li>
+							<li>Honestidad, puntualidad y respeto</li>
 						</ul>
-						<blockquote><strong>&iexcl;Conóceme!</strong><br>Soy responsable, honesta y apasionada por mi trabajo. 
-Tengo experiencia en hogares y oficinas realizando tareas de limpieza de salas, dormitorios, ba&ntilde;os, cocinas, lobbies, &aacute;reas 
+					</div>
+				</section>
 
-comunes y dem&aacute;s.</blockquote>
+<hr>
+
+				<section class="detalle-servicio">
+					<div class="foto">
+						<img src="img/asist_kathy.jpg" Title="Kathy Mecías">
+					</div>
+					<div class="text">
+						
+						<h3>Kathy Mec&iacute;as</h3>
+						
+						<h5>Asistente de limpieza </h5>
+						<ul class="asist">
+							<li>7 a&ntilde;os de experiencia en tareas de limpieza </li>
+							<li>Bachillerato  </li>
+							<li>Limpieza de hogares y oficinas  </li>
+							<li>Cuidado de ni&ntilde;os</li>
+							<li>Honestidad, puntualidad y respeto</li>
+						</ul>
 					</div>
 				</section>
 

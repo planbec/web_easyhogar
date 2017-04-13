@@ -42,7 +42,7 @@
 	}
 
 	.foto { margin: 1rem; 
-		img { border-radius: 50%;
+		img { border-radius: 10%;
 			border: 1px solid #ddd;
 			max-width: none;
 			padding: 2px;
@@ -136,8 +136,8 @@
 }
 
 
-/* Redes */
-.redes {
+/* call-action */
+.call-action {
 	background: $verde; 
 	border: 1px solid RGBA(255,255,255,0.5);
 	border-top: 0;
@@ -152,13 +152,26 @@
     i { font-size: 2rem; margin: 0 1rem;}
 }
 
-.small .redes {
+.small .call-action {
     margin-bottom: 0.7rem;
     margin-top: 25px;
 }
 
 
-header, .logo-header, .redes, img {
+/* call-action */
+.redes {
+	margin: 0.5rem;
+	padding: 0;
+	float:left;
+	li { display: inline; font-size: 1.5rem; padding: 0.5rem;
+		a { color: #FFF; 
+			&:hover { color: #444e6e;}
+		}
+	}
+}
+
+
+header, .logo-header, .call-action, img {
 			transition: all .5s;
 			-moz-transition: all .5s; /* Firefox 4 */
 			-webkit-transition: all .5s; /* Safari and Chrome */
